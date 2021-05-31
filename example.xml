@@ -1,0 +1,2864 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HotelSearchRES>
+  <Destination id="1">Tunisie</Destination>
+  <City id="106">Sousse</City>
+  <Currency>1</Currency>
+  <Language>1</Language>
+  <FromDate>15/04/2021</FromDate>
+  <ToDate>16/04/2021</ToDate>
+  <Hotels count="12">
+    <Hotel id="1663">
+      <Title>Sindbad Center</Title>
+      <Priority>21</Priority>
+      <PromotionTitle>1er enfant -12 ans gratuit</PromotionTitle>
+      <PromotionDateTime>20/04/2018 00:00:00</PromotionDateTime>
+      <Category id="3">3 étoiles</Category>
+      <ThumbImage url="https://fwk.resabo.com:447/cr.fwk/images/hotels/Hotel-5814-20161107-053941.JPG">
+      </ThumbImage>
+      <Review>
+        <Note>12</Note>
+        <Number>24</Number>
+      </Review>
+      <Localization>
+        <Longitude>
+        </Longitude>
+        <Latitude>
+        </Latitude>
+      </Localization>
+      <Address>
+      </Address>
+      <Summary>hotel Sindbad Center Sousse Profiter du calme que vous offre l’hôtel Sindbad Center Sousse. La gentillesse, le professionnalisme ainsi que le confort </Summary>
+      <rooms>
+        <room id="1" count="1">
+          <Title>Chambre Double</Title>
+          <Adult> 2</Adult>
+          <Child minage="2" maxage="11" age="0"> 0</Child>
+          <AvailableQuantity>5</AvailableQuantity>
+          <Boardings>
+            <Boarding id="1">
+              <Title>Logement Seul</Title>
+              <Available code="0">Disponible</Available>
+              <Rate currency="1">60</Rate>
+              <RateWithoutPromotion currency="1">60</RateWithoutPromotion>
+              <NonRefundable>False</NonRefundable>
+              <CancellationPolicy>
+                <FromDate>08/04/2021</FromDate>
+                <Fee>60</Fee>
+              </CancellationPolicy>
+            </Boarding>
+          </Boardings>
+        </room>
+        <room id="3" count="1">
+          <Title>Chambre Triple</Title>
+          <Adult> 2</Adult>
+          <Child minage="2" maxage="11" age="1"> 1</Child>
+          <AvailableQuantity>5</AvailableQuantity>
+          <Boardings>
+            <Boarding id="1">
+              <Title>Logement Seul</Title>
+              <Available code="0">Disponible</Available>
+              <Rate currency="1">60</Rate>
+              <RateWithoutPromotion currency="1">60</RateWithoutPromotion>
+              <NonRefundable>False</NonRefundable>
+              <CancellationPolicy>
+                <FromDate>08/04/2021</FromDate>
+                <Fee>60</Fee>
+              </CancellationPolicy>
+            </Boarding>
+          </Boardings>
+        </room>
+        <room id="2" count="1">
+          <Title>Chambre Single</Title>
+          <Adult> 1</Adult>
+          <Child minage="2" maxage="11" age="0"> 0</Child>
+          <AvailableQuantity>5</AvailableQuantity>
+          <Boardings>
+            <Boarding id="1">
+              <Title>Logement Seul</Title>
+              <Available code="0">Disponible</Available>
+              <Rate currency="1">42</Rate>
+              <RateWithoutPromotion currency="1">42</RateWithoutPromotion>
+              <NonRefundable>False</NonRefundable>
+              <CancellationPolicy>
+                <FromDate>08/04/2021</FromDate>
+                <Fee>42</Fee>
+              </CancellationPolicy>
+            </Boarding>
+          </Boardings>
+        </room>
+      </rooms>
+      <GlobalSupplement>6</GlobalSupplement>
+    </Hotel>
+    <Hotel id="507">
+      <Title>Hasdrubal Thalassa &amp; Spa Port El Kantaoui</Title>
+      <Priority>7</Priority>
+      <PromotionTitle>Meilleure note</PromotionTitle>
+      <PromotionDateTime>20/04/2018 00:00:00</PromotionDateTime>
+      <Category id="4">4 étoiles</Category>
+      <ThumbImage url="https://fwk.resabo.com:447/cr.fwk/images/hotels/Section-747-20120215-104753.jpg">Façade</ThumbImage>
+      <Review>
+        <Note>16</Note>
+        <Number>142</Number>
+      </Review>
+      <Localization>
+        <Longitude>10.598042</Longitude>
+        <Latitude>35.889746</Latitude>
+      </Localization>
+      <Address>B.P 56 PORT EL KANTAOUI 
+HAMMAM SOUSSE</Address>
+      <Summary>hotel Hasdrubal Thalassa &amp; Spa Port El Kantaouil’hôtel Hasdrubal Thalassa &amp; Spa Port El Kantaoui  est un établissement hôtelier de catégorie 4 étoiles</Summary>
+      <rooms>
+        <room id="1" count="1">
+          <Title>Chambre Double</Title>
+          <Adult> 2</Adult>
+          <Child minage="2" maxage="7.99" age="0"> 0</Child>
+          <AvailableQuantity>5</AvailableQuantity>
+          <Boardings>
+            <Boarding id="2">
+              <Title>Logement Petit Déjeuner</Title>
+              <Available code="0">Disponible</Available>
+              <Rate currency="1">255.200</Rate>
+              <RateWithoutPromotion currency="1">255.200</RateWithoutPromotion>
+              <NonRefundable>False</NonRefundable>
+              <CancellationPolicy>
+                <FromDate>12/04/2021</FromDate>
+                <Fee>255.200</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="3">
+              <Title>Demi Pension</Title>
+              <Available code="0">Disponible</Available>
+              <Rate currency="1">371.200</Rate>
+              <RateWithoutPromotion currency="1">371.200</RateWithoutPromotion>
+              <NonRefundable>False</NonRefundable>
+              <CancellationPolicy>
+                <FromDate>12/04/2021</FromDate>
+                <Fee>371.200</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="4">
+              <Title>Pension Complète</Title>
+              <Available code="0">Disponible</Available>
+              <Rate currency="1">487.200</Rate>
+              <RateWithoutPromotion currency="1">487.200</RateWithoutPromotion>
+              <NonRefundable>False</NonRefundable>
+              <CancellationPolicy>
+                <FromDate>12/04/2021</FromDate>
+                <Fee>487.200</Fee>
+              </CancellationPolicy>
+            </Boarding>
+          </Boardings>
+        </room>
+        <room id="2" count="1">
+          <Title>Chambre Single</Title>
+          <Adult> 1</Adult>
+          <Child minage="2" maxage="7.99" age="0"> 0</Child>
+          <AvailableQuantity>5</AvailableQuantity>
+          <Boardings>
+            <Boarding id="2">
+              <Title>Logement Petit Déjeuner</Title>
+              <Available code="0">Disponible</Available>
+              <Rate currency="1">185.600</Rate>
+              <RateWithoutPromotion currency="1">185.600</RateWithoutPromotion>
+              <NonRefundable>False</NonRefundable>
+              <CancellationPolicy>
+                <FromDate>12/04/2021</FromDate>
+                <Fee>185.600</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="3">
+              <Title>Demi Pension</Title>
+              <Available code="0">Disponible</Available>
+              <Rate currency="1">243.600</Rate>
+              <RateWithoutPromotion currency="1">243.600</RateWithoutPromotion>
+              <NonRefundable>False</NonRefundable>
+              <CancellationPolicy>
+                <FromDate>12/04/2021</FromDate>
+                <Fee>243.600</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="4">
+              <Title>Pension Complète</Title>
+              <Available code="0">Disponible</Available>
+              <Rate currency="1">301.600</Rate>
+              <RateWithoutPromotion currency="1">301.600</RateWithoutPromotion>
+              <NonRefundable>False</NonRefundable>
+              <CancellationPolicy>
+                <FromDate>12/04/2021</FromDate>
+                <Fee>301.600</Fee>
+              </CancellationPolicy>
+            </Boarding>
+          </Boardings>
+        </room>
+        <room id="3" count="1">
+          <Title>Chambre Triple</Title>
+          <Adult> 2</Adult>
+          <Child minage="2" maxage="7.99" age="1"> 1</Child>
+          <AvailableQuantity>5</AvailableQuantity>
+          <Boardings>
+            <Boarding id="2">
+              <Title>Logement Petit Déjeuner</Title>
+              <Available code="0">Disponible</Available>
+              <Rate currency="1">255.200</Rate>
+              <RateWithoutPromotion currency="1">255.200</RateWithoutPromotion>
+              <NonRefundable>False</NonRefundable>
+              <CancellationPolicy>
+                <FromDate>12/04/2021</FromDate>
+                <Fee>255.200</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="3">
+              <Title>Demi Pension</Title>
+              <Available code="0">Disponible</Available>
+              <Rate currency="1">371.200</Rate>
+              <RateWithoutPromotion currency="1">371.200</RateWithoutPromotion>
+              <NonRefundable>False</NonRefundable>
+              <CancellationPolicy>
+                <FromDate>12/04/2021</FromDate>
+                <Fee>371.200</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="4">
+              <Title>Pension Complète</Title>
+              <Available code="0">Disponible</Available>
+              <Rate currency="1">487.200</Rate>
+              <RateWithoutPromotion currency="1">487.200</RateWithoutPromotion>
+              <NonRefundable>False</NonRefundable>
+              <CancellationPolicy>
+                <FromDate>12/04/2021</FromDate>
+                <Fee>487.200</Fee>
+              </CancellationPolicy>
+            </Boarding>
+          </Boardings>
+        </room>
+      </rooms>
+      <GlobalSupplement>6</GlobalSupplement>
+    </Hotel>
+    <Hotel id="1261">
+      <Title>EL Ksar Resort &amp; Thalasso</Title>
+      <Priority>13</Priority>
+      <PromotionTitle>Hôtel accepte uniquement Les Familles (Couples avec ou sans Enfants)/ Enfant -12 ans gratuit</PromotionTitle>
+      <PromotionDateTime>20/04/2018 00:00:00</PromotionDateTime>
+      <Category id="4">4 étoiles</Category>
+      <ThumbImage url="https://fwk.resabo.com:447/cr.fwk/images/hotels/Hotel-2276-20161223-092656.jpg">
+      </ThumbImage>
+      <Review>
+        <Note>13</Note>
+        <Number>229</Number>
+      </Review>
+      <Localization>
+        <Longitude>10.621022</Longitude>
+        <Latitude>35.851405</Latitude>
+      </Localization>
+      <Address>
+      </Address>
+      <Summary>Hôtel EL Ksar Resort &amp; Thalasso Sousse EL Ksar Resort &amp; Thalasso est l’hôtel qui vous offrira les plus beaux souvenirs, partez à la découverte de subl</Summary>
+      <rooms>
+        <room id="1" count="1">
+          <Title>Chambre Double</Title>
+          <Adult> 2</Adult>
+          <Child minage="2" maxage="11.99" age="0"> 0</Child>
+          <AvailableQuantity>6</AvailableQuantity>
+          <Boardings>
+            <Boarding id="2">
+              <Title>Logement Petit Déjeuner</Title>
+              <Available code="0">Disponible</Available>
+              <Rate currency="1">100.800</Rate>
+              <RateWithoutPromotion currency="1">100.800</RateWithoutPromotion>
+              <NonRefundable>False</NonRefundable>
+              <CancellationPolicy>
+                <FromDate>08/04/2021</FromDate>
+                <Fee>100.800</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="3">
+              <Title>Demi Pension</Title>
+              <Available code="0">Disponible</Available>
+              <Rate currency="1">136.800</Rate>
+              <RateWithoutPromotion currency="1">136.800</RateWithoutPromotion>
+              <NonRefundable>False</NonRefundable>
+              <CancellationPolicy>
+                <FromDate>08/04/2021</FromDate>
+                <Fee>136.800</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="10">
+              <Title>All Inclusive Soft Drink</Title>
+              <Available code="0">Disponible</Available>
+              <Rate currency="1">172.800</Rate>
+              <RateWithoutPromotion currency="1">172.800</RateWithoutPromotion>
+              <NonRefundable>False</NonRefundable>
+              <CancellationPolicy>
+                <FromDate>08/04/2021</FromDate>
+                <Fee>172.800</Fee>
+              </CancellationPolicy>
+            </Boarding>
+          </Boardings>
+        </room>
+        <room id="2" count="1">
+          <Title>Chambre Single</Title>
+          <Adult> 1</Adult>
+          <Child minage="2" maxage="11.99" age="0"> 0</Child>
+          <AvailableQuantity>6</AvailableQuantity>
+          <Boardings>
+            <Boarding id="2">
+              <Title>Logement Petit Déjeuner</Title>
+              <Available code="0">Disponible</Available>
+              <Rate currency="1">50.400</Rate>
+              <RateWithoutPromotion currency="1">50.400</RateWithoutPromotion>
+              <NonRefundable>False</NonRefundable>
+              <CancellationPolicy>
+                <FromDate>08/04/2021</FromDate>
+                <Fee>50.400</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="3">
+              <Title>Demi Pension</Title>
+              <Available code="0">Disponible</Available>
+              <Rate currency="1">68.400</Rate>
+              <RateWithoutPromotion currency="1">68.400</RateWithoutPromotion>
+              <NonRefundable>False</NonRefundable>
+              <CancellationPolicy>
+                <FromDate>08/04/2021</FromDate>
+                <Fee>68.400</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="10">
+              <Title>All Inclusive Soft Drink</Title>
+              <Available code="0">Disponible</Available>
+              <Rate currency="1">86.400</Rate>
+              <RateWithoutPromotion currency="1">86.400</RateWithoutPromotion>
+              <NonRefundable>False</NonRefundable>
+              <CancellationPolicy>
+                <FromDate>08/04/2021</FromDate>
+                <Fee>86.400</Fee>
+              </CancellationPolicy>
+            </Boarding>
+          </Boardings>
+        </room>
+        <room id="3" count="1">
+          <Title>Chambre Triple</Title>
+          <Adult> 2</Adult>
+          <Child minage="2" maxage="11.99" age="1"> 1</Child>
+          <AvailableQuantity>6</AvailableQuantity>
+          <Boardings>
+            <Boarding id="2">
+              <Title>Logement Petit Déjeuner</Title>
+              <Available code="0">Disponible</Available>
+              <Rate currency="1">100.800</Rate>
+              <RateWithoutPromotion currency="1">100.800</RateWithoutPromotion>
+              <NonRefundable>False</NonRefundable>
+              <CancellationPolicy>
+                <FromDate>08/04/2021</FromDate>
+                <Fee>100.800</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="3">
+              <Title>Demi Pension</Title>
+              <Available code="0">Disponible</Available>
+              <Rate currency="1">136.800</Rate>
+              <RateWithoutPromotion currency="1">136.800</RateWithoutPromotion>
+              <NonRefundable>False</NonRefundable>
+              <CancellationPolicy>
+                <FromDate>08/04/2021</FromDate>
+                <Fee>136.800</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="10">
+              <Title>All Inclusive Soft Drink</Title>
+              <Available code="0">Disponible</Available>
+              <Rate currency="1">172.800</Rate>
+              <RateWithoutPromotion currency="1">172.800</RateWithoutPromotion>
+              <NonRefundable>False</NonRefundable>
+              <CancellationPolicy>
+                <FromDate>08/04/2021</FromDate>
+                <Fee>172.800</Fee>
+              </CancellationPolicy>
+            </Boarding>
+          </Boardings>
+        </room>
+      </rooms>
+      <GlobalSupplement>6</GlobalSupplement>
+    </Hotel>
+    <Hotel id="1464">
+      <Title>Marhaba Royal Salem</Title>
+      <Priority>10</Priority>
+      <PromotionTitle>Enf -4ans gratuit</PromotionTitle>
+      <PromotionDateTime>03/03/2019 23:59:00</PromotionDateTime>
+      <Category id="4">4 étoiles</Category>
+      <ThumbImage url="https://fwk.resabo.com:447/cr.fwk/images/hotels/Section-3764-20131025-033355.jpg">
+      </ThumbImage>
+      <Review>
+        <Note>14</Note>
+        <Number>171</Number>
+      </Review>
+      <Localization>
+        <Longitude>10.6159660</Longitude>
+        <Latitude>35.8585744</Latitude>
+      </Localization>
+      <Address>Blvd 14 Janvier 4039</Address>
+      <Summary> Marhaba Royal Salem Sousse Le Marhaba Royal Hotel est la destination préférée des familles et des couples à Sousse.
+Au milieu des palmiers et au coeu</Summary>
+      <rooms>
+        <room id="1" count="1">
+          <Title>Chambre Double</Title>
+          <Adult> 2</Adult>
+          <Child minage="2" maxage="11.99" age="0"> 0</Child>
+          <AvailableQuantity>20</AvailableQuantity>
+          <Boardings>
+            <Boarding id="2">
+              <Title>Logement Petit Déjeuner</Title>
+              <Available code="0">Disponible</Available>
+              <Rate currency="1">136.880</Rate>
+              <RateWithoutPromotion currency="1">136.880</RateWithoutPromotion>
+              <NonRefundable>False</NonRefundable>
+              <CancellationPolicy>
+                <FromDate>08/04/2021</FromDate>
+                <Fee>136.880</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="6">
+              <Title>Demi Pension +</Title>
+              <Available code="0">Disponible</Available>
+              <Rate currency="1">157.760</Rate>
+              <RateWithoutPromotion currency="1">157.760</RateWithoutPromotion>
+              <NonRefundable>False</NonRefundable>
+              <CancellationPolicy>
+                <FromDate>08/04/2021</FromDate>
+                <Fee>157.760</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="10">
+              <Title>All Inclusive Soft Drink</Title>
+              <Available code="0">Disponible</Available>
+              <Rate currency="1">180.960</Rate>
+              <RateWithoutPromotion currency="1">180.960</RateWithoutPromotion>
+              <NonRefundable>False</NonRefundable>
+              <CancellationPolicy>
+                <FromDate>08/04/2021</FromDate>
+                <Fee>180.960</Fee>
+              </CancellationPolicy>
+            </Boarding>
+          </Boardings>
+        </room>
+        <room id="2" count="1">
+          <Title>Chambre Single</Title>
+          <Adult> 1</Adult>
+          <Child minage="2" maxage="11.99" age="0"> 0</Child>
+          <AvailableQuantity>20</AvailableQuantity>
+          <Boardings>
+            <Boarding id="2">
+              <Title>Logement Petit Déjeuner</Title>
+              <Available code="0">Disponible</Available>
+              <Rate currency="1">85.840</Rate>
+              <RateWithoutPromotion currency="1">85.840</RateWithoutPromotion>
+              <NonRefundable>False</NonRefundable>
+              <CancellationPolicy>
+                <FromDate>08/04/2021</FromDate>
+                <Fee>85.840</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="6">
+              <Title>Demi Pension +</Title>
+              <Available code="0">Disponible</Available>
+              <Rate currency="1">96.280</Rate>
+              <RateWithoutPromotion currency="1">96.280</RateWithoutPromotion>
+              <NonRefundable>False</NonRefundable>
+              <CancellationPolicy>
+                <FromDate>08/04/2021</FromDate>
+                <Fee>96.280</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="10">
+              <Title>All Inclusive Soft Drink</Title>
+              <Available code="0">Disponible</Available>
+              <Rate currency="1">107.880</Rate>
+              <RateWithoutPromotion currency="1">107.880</RateWithoutPromotion>
+              <NonRefundable>False</NonRefundable>
+              <CancellationPolicy>
+                <FromDate>08/04/2021</FromDate>
+                <Fee>107.880</Fee>
+              </CancellationPolicy>
+            </Boarding>
+          </Boardings>
+        </room>
+        <room id="3" count="1">
+          <Title>Chambre Triple</Title>
+          <Adult> 2</Adult>
+          <Child minage="2" maxage="11.99" age="1"> 1</Child>
+          <AvailableQuantity>20</AvailableQuantity>
+          <Boardings>
+            <Boarding id="2">
+              <Title>Logement Petit Déjeuner</Title>
+              <Available code="0">Disponible</Available>
+              <Rate currency="1">136.880</Rate>
+              <RateWithoutPromotion currency="1">136.880</RateWithoutPromotion>
+              <NonRefundable>False</NonRefundable>
+              <CancellationPolicy>
+                <FromDate>08/04/2021</FromDate>
+                <Fee>136.880</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="6">
+              <Title>Demi Pension +</Title>
+              <Available code="0">Disponible</Available>
+              <Rate currency="1">157.760</Rate>
+              <RateWithoutPromotion currency="1">157.760</RateWithoutPromotion>
+              <NonRefundable>False</NonRefundable>
+              <CancellationPolicy>
+                <FromDate>08/04/2021</FromDate>
+                <Fee>157.760</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="10">
+              <Title>All Inclusive Soft Drink</Title>
+              <Available code="0">Disponible</Available>
+              <Rate currency="1">180.960</Rate>
+              <RateWithoutPromotion currency="1">180.960</RateWithoutPromotion>
+              <NonRefundable>False</NonRefundable>
+              <CancellationPolicy>
+                <FromDate>08/04/2021</FromDate>
+                <Fee>180.960</Fee>
+              </CancellationPolicy>
+            </Boarding>
+          </Boardings>
+        </room>
+      </rooms>
+      <GlobalSupplement>6</GlobalSupplement>
+    </Hotel>
+    <Hotel id="1517">
+      <Title>Hannibal Palace</Title>
+      <Priority>16</Priority>
+      <PromotionTitle>Enfant -6 ans gratuit/-10% séjour de noces</PromotionTitle>
+      <PromotionDateTime>20/04/2018 00:00:00</PromotionDateTime>
+      <Category id="4">4 étoiles</Category>
+      <ThumbImage url="https://fwk.resabo.com:447/cr.fwk/images/hotels/Hotel-4204-20201006-114453.jpg">
+      </ThumbImage>
+      <Review>
+        <Note>13</Note>
+        <Number>42</Number>
+      </Review>
+      <Localization>
+        <Longitude>10.5842113</Longitude>
+        <Latitude>35.9035123</Latitude>
+      </Localization>
+      <Address>
+      </Address>
+      <Summary>hotel Hannibal Palace Sousse L’hôtel Hannibal Palace 4 étoiles vous accueille dans la ville de Sousse qui bénéficie d’un temps des plus ensoleillé dur</Summary>
+      <rooms>
+        <room id="1" count="1">
+          <Title>Chambre Double</Title>
+          <Adult> 2</Adult>
+          <Child minage="0" maxage="0" age="0"> 0</Child>
+          <AvailableQuantity>5</AvailableQuantity>
+          <Boardings>
+            <Boarding id="2">
+              <Title>Logement Petit Déjeuner</Title>
+              <Available code="0">Disponible</Available>
+              <Rate currency="1">94.400</Rate>
+              <RateWithoutPromotion currency="1">94.400</RateWithoutPromotion>
+              <NonRefundable>False</NonRefundable>
+              <CancellationPolicy>
+                <FromDate>12/04/2021</FromDate>
+                <Fee>94.400</Fee>
+              </CancellationPolicy>
+            </Boarding>
+          </Boardings>
+        </room>
+        <room id="2" count="1">
+          <Title>Chambre Single</Title>
+          <Adult> 1</Adult>
+          <Child minage="0" maxage="0" age="0"> 0</Child>
+          <AvailableQuantity>5</AvailableQuantity>
+          <Boardings>
+            <Boarding id="2">
+              <Title>Logement Petit Déjeuner</Title>
+              <Available code="0">Disponible</Available>
+              <Rate currency="1">70.800</Rate>
+              <RateWithoutPromotion currency="1">70.800</RateWithoutPromotion>
+              <NonRefundable>False</NonRefundable>
+              <CancellationPolicy>
+                <FromDate>12/04/2021</FromDate>
+                <Fee>70.800</Fee>
+              </CancellationPolicy>
+            </Boarding>
+          </Boardings>
+        </room>
+        <room id="3" count="1">
+          <Title>Chambre Triple</Title>
+          <Adult> 2</Adult>
+          <Child minage="0" maxage="0" age="1"> 1</Child>
+          <AvailableQuantity>5</AvailableQuantity>
+          <Boardings>
+            <Boarding id="2">
+              <Title>Logement Petit Déjeuner</Title>
+              <Available code="0">Disponible</Available>
+              <Rate currency="1">94.400</Rate>
+              <RateWithoutPromotion currency="1">94.400</RateWithoutPromotion>
+              <NonRefundable>False</NonRefundable>
+              <CancellationPolicy>
+                <FromDate>12/04/2021</FromDate>
+                <Fee>94.400</Fee>
+              </CancellationPolicy>
+            </Boarding>
+          </Boardings>
+        </room>
+      </rooms>
+      <GlobalSupplement>6</GlobalSupplement>
+    </Hotel>
+    <Hotel id="1756">
+      <Title>Hotel Kanta</Title>
+      <Priority>10</Priority>
+      <PromotionTitle>
+      </PromotionTitle>
+      <PromotionDateTime>23/04/2019 00:00:00</PromotionDateTime>
+      <Category id="4">4 étoiles</Category>
+      <ThumbImage url="https://fwk.resabo.com:447/cr.fwk/images/hotels/Hotel-6916-20210319-101225.jpg">
+      </ThumbImage>
+      <Review>
+        <Note>16</Note>
+        <Number>4</Number>
+      </Review>
+      <Localization>
+        <Longitude>
+        </Longitude>
+        <Latitude>
+        </Latitude>
+      </Localization>
+      <Address>
+      </Address>
+      <Summary>DescriptionDécouvrez les merveilles de Port El-Kantaoui en choisissant L'Hotel Kanta comme lieu de séjour. L' Hotel Kanta jouit d’un emplacement idéal</Summary>
+      <rooms>
+        <room id="1" count="1">
+          <Title>Chambre Double</Title>
+          <Adult> 2</Adult>
+          <Child minage="2" maxage="11.99" age="0"> 0</Child>
+          <AvailableQuantity>10</AvailableQuantity>
+          <Boardings>
+            <Boarding id="2">
+              <Title>Logement Petit Déjeuner</Title>
+              <Available code="0">Disponible</Available>
+              <Rate currency="1">96</Rate>
+              <RateWithoutPromotion currency="1">96</RateWithoutPromotion>
+              <NonRefundable>False</NonRefundable>
+              <CancellationPolicy>
+                <FromDate>12/04/2021</FromDate>
+                <Fee>96</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="3">
+              <Title>Demi Pension</Title>
+              <Available code="0">Disponible</Available>
+              <Rate currency="1">108</Rate>
+              <RateWithoutPromotion currency="1">108</RateWithoutPromotion>
+              <NonRefundable>False</NonRefundable>
+              <CancellationPolicy>
+                <FromDate>12/04/2021</FromDate>
+                <Fee>108</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="4">
+              <Title>Pension Complète</Title>
+              <Available code="0">Disponible</Available>
+              <Rate currency="1">144</Rate>
+              <RateWithoutPromotion currency="1">144</RateWithoutPromotion>
+              <NonRefundable>False</NonRefundable>
+              <CancellationPolicy>
+                <FromDate>12/04/2021</FromDate>
+                <Fee>144</Fee>
+              </CancellationPolicy>
+            </Boarding>
+          </Boardings>
+        </room>
+        <room id="3" count="1">
+          <Title>Chambre Triple</Title>
+          <Adult> 2</Adult>
+          <Child minage="2" maxage="11.99" age="1"> 1</Child>
+          <AvailableQuantity>10</AvailableQuantity>
+          <Boardings>
+            <Boarding id="2">
+              <Title>Logement Petit Déjeuner</Title>
+              <Available code="0">Disponible</Available>
+              <Rate currency="1">96</Rate>
+              <RateWithoutPromotion currency="1">96</RateWithoutPromotion>
+              <NonRefundable>False</NonRefundable>
+              <CancellationPolicy>
+                <FromDate>12/04/2021</FromDate>
+                <Fee>96</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="3">
+              <Title>Demi Pension</Title>
+              <Available code="0">Disponible</Available>
+              <Rate currency="1">108</Rate>
+              <RateWithoutPromotion currency="1">108</RateWithoutPromotion>
+              <NonRefundable>False</NonRefundable>
+              <CancellationPolicy>
+                <FromDate>12/04/2021</FromDate>
+                <Fee>108</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="4">
+              <Title>Pension Complète</Title>
+              <Available code="0">Disponible</Available>
+              <Rate currency="1">144</Rate>
+              <RateWithoutPromotion currency="1">144</RateWithoutPromotion>
+              <NonRefundable>False</NonRefundable>
+              <CancellationPolicy>
+                <FromDate>12/04/2021</FromDate>
+                <Fee>144</Fee>
+              </CancellationPolicy>
+            </Boarding>
+          </Boardings>
+        </room>
+        <room id="2" count="1">
+          <Title>Chambre Single</Title>
+          <Adult> 1</Adult>
+          <Child minage="2" maxage="11.99" age="0"> 0</Child>
+          <AvailableQuantity>10</AvailableQuantity>
+          <Boardings>
+            <Boarding id="2">
+              <Title>Logement Petit Déjeuner</Title>
+              <Available code="0">Disponible</Available>
+              <Rate currency="1">66</Rate>
+              <RateWithoutPromotion currency="1">66</RateWithoutPromotion>
+              <NonRefundable>False</NonRefundable>
+              <CancellationPolicy>
+                <FromDate>12/04/2021</FromDate>
+                <Fee>66</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="3">
+              <Title>Demi Pension</Title>
+              <Available code="0">Disponible</Available>
+              <Rate currency="1">72</Rate>
+              <RateWithoutPromotion currency="1">72</RateWithoutPromotion>
+              <NonRefundable>False</NonRefundable>
+              <CancellationPolicy>
+                <FromDate>12/04/2021</FromDate>
+                <Fee>72</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="4">
+              <Title>Pension Complète</Title>
+              <Available code="0">Disponible</Available>
+              <Rate currency="1">90</Rate>
+              <RateWithoutPromotion currency="1">90</RateWithoutPromotion>
+              <NonRefundable>False</NonRefundable>
+              <CancellationPolicy>
+                <FromDate>12/04/2021</FromDate>
+                <Fee>90</Fee>
+              </CancellationPolicy>
+            </Boarding>
+          </Boardings>
+        </room>
+      </rooms>
+      <GlobalSupplement>6</GlobalSupplement>
+    </Hotel>
+    <Hotel id="1170">
+      <Title>Movenpick Resort &amp; Marine SPA</Title>
+      <Priority>1</Priority>
+      <PromotionTitle> Enf -7ans gratuit/Luxe/N'accepte pas 3 Adultes dans la même chambre/Burkini interdit dans toutes les piscines de l’hôtel</PromotionTitle>
+      <PromotionDateTime>20/04/2018 00:00:00</PromotionDateTime>
+      <Category id="5">5 étoiles</Category>
+      <ThumbImage url="https://fwk.resabo.com:447/cr.fwk/images/hotels/Hotel-1988-20170308-105626.jpg">
+      </ThumbImage>
+      <Review>
+        <Note>16</Note>
+        <Number>802</Number>
+      </Review>
+      <Localization>
+        <Longitude>10.6273305</Longitude>
+        <Latitude>35.8426125</Latitude>
+      </Localization>
+      <Address>
+      </Address>
+      <Summary>Movenpick Resort &amp; Marine SPA Sousse Movenpick Resort &amp; Marine SPA
+ Situation de l'Hôtel Movenpick Resort &amp; Marine SPA
+Situé à  la Perle du Sahel, Sou</Summary>
+      <rooms>
+        <room id="1" count="1">
+          <Title>Chambre Double</Title>
+          <Adult> 2</Adult>
+          <Child minage="2" maxage="11.99" age="0"> 0</Child>
+          <AvailableQuantity>5</AvailableQuantity>
+          <Boardings>
+            <Boarding id="3">
+              <Title>Demi Pension</Title>
+              <Available code="200">Disponible</Available>
+              <Rate currency="1">421.200</Rate>
+              <RateWithoutPromotion currency="1">421.200</RateWithoutPromotion>
+              <NonRefundable>False</NonRefundable>
+              <CancellationPolicy>
+                <FromDate>08/04/2021</FromDate>
+                <Fee>421.200</Fee>
+              </CancellationPolicy>
+            </Boarding>
+          </Boardings>
+        </room>
+        <room id="2" count="1">
+          <Title>Chambre Single</Title>
+          <Adult> 1</Adult>
+          <Child minage="2" maxage="11.99" age="0"> 0</Child>
+          <AvailableQuantity>0</AvailableQuantity>
+          <Boardings>
+            <Boarding id="3">
+              <Title>Demi Pension</Title>
+              <Available code="201">Sur Demande</Available>
+              <Rate currency="1">264.600</Rate>
+              <RateWithoutPromotion currency="1">264.600</RateWithoutPromotion>
+              <NonRefundable>False</NonRefundable>
+              <CancellationPolicy>
+                <FromDate>08/04/2021</FromDate>
+                <Fee>264.600</Fee>
+              </CancellationPolicy>
+            </Boarding>
+          </Boardings>
+        </room>
+        <room id="979" count="1">
+          <Title>chambre vue piscine et vue mer</Title>
+          <Adult> 2</Adult>
+          <Child minage="2" maxage="11.99" age="1"> 1</Child>
+          <AvailableQuantity>0</AvailableQuantity>
+          <Boardings>
+            <Boarding id="3">
+              <Title>Demi Pension</Title>
+              <Available code="201">Sur Demande</Available>
+              <Rate currency="1">739.800</Rate>
+              <RateWithoutPromotion currency="1">739.800</RateWithoutPromotion>
+              <NonRefundable>False</NonRefundable>
+              <CancellationPolicy>
+                <FromDate>08/04/2021</FromDate>
+                <Fee>739.800</Fee>
+              </CancellationPolicy>
+            </Boarding>
+          </Boardings>
+        </room>
+        <room id="979" count="1">
+          <Title>chambre vue piscine et vue mer</Title>
+          <Adult> 2</Adult>
+          <Child minage="2" maxage="11.99" age="0"> 0</Child>
+          <AvailableQuantity>0</AvailableQuantity>
+          <Boardings>
+            <Boarding id="3">
+              <Title>Demi Pension</Title>
+              <Available code="201">Sur Demande</Available>
+              <Rate currency="1">493.200</Rate>
+              <RateWithoutPromotion currency="1">493.200</RateWithoutPromotion>
+              <NonRefundable>False</NonRefundable>
+              <CancellationPolicy>
+                <FromDate>08/04/2021</FromDate>
+                <Fee>493.200</Fee>
+              </CancellationPolicy>
+            </Boarding>
+          </Boardings>
+        </room>
+        <room id="978" count="1">
+          <Title>chambre vue piscine </Title>
+          <Adult> 2</Adult>
+          <Child minage="2" maxage="11.99" age="1"> 1</Child>
+          <AvailableQuantity>5</AvailableQuantity>
+          <Boardings>
+            <Boarding id="3">
+              <Title>Demi Pension</Title>
+              <Available code="200">Disponible</Available>
+              <Rate currency="1">667.800</Rate>
+              <RateWithoutPromotion currency="1">667.800</RateWithoutPromotion>
+              <NonRefundable>False</NonRefundable>
+              <CancellationPolicy>
+                <FromDate>08/04/2021</FromDate>
+                <Fee>667.800</Fee>
+              </CancellationPolicy>
+            </Boarding>
+          </Boardings>
+        </room>
+        <room id="978" count="1">
+          <Title>chambre vue piscine </Title>
+          <Adult> 2</Adult>
+          <Child minage="2" maxage="11.99" age="0"> 0</Child>
+          <AvailableQuantity>5</AvailableQuantity>
+          <Boardings>
+            <Boarding id="3">
+              <Title>Demi Pension</Title>
+              <Available code="200">Disponible</Available>
+              <Rate currency="1">445.200</Rate>
+              <RateWithoutPromotion currency="1">445.200</RateWithoutPromotion>
+              <NonRefundable>False</NonRefundable>
+              <CancellationPolicy>
+                <FromDate>08/04/2021</FromDate>
+                <Fee>445.200</Fee>
+              </CancellationPolicy>
+            </Boarding>
+          </Boardings>
+        </room>
+        <room id="977" count="1">
+          <Title>chambre vue mer partielle</Title>
+          <Adult> 2</Adult>
+          <Child minage="2" maxage="11.99" age="1"> 1</Child>
+          <AvailableQuantity>5</AvailableQuantity>
+          <Boardings>
+            <Boarding id="3">
+              <Title>Demi Pension</Title>
+              <Available code="200">Disponible</Available>
+              <Rate currency="1">703.800</Rate>
+              <RateWithoutPromotion currency="1">703.800</RateWithoutPromotion>
+              <NonRefundable>False</NonRefundable>
+              <CancellationPolicy>
+                <FromDate>08/04/2021</FromDate>
+                <Fee>703.800</Fee>
+              </CancellationPolicy>
+            </Boarding>
+          </Boardings>
+        </room>
+        <room id="977" count="1">
+          <Title>chambre vue mer partielle</Title>
+          <Adult> 2</Adult>
+          <Child minage="2" maxage="11.99" age="0"> 0</Child>
+          <AvailableQuantity>5</AvailableQuantity>
+          <Boardings>
+            <Boarding id="3">
+              <Title>Demi Pension</Title>
+              <Available code="200">Disponible</Available>
+              <Rate currency="1">469.200</Rate>
+              <RateWithoutPromotion currency="1">469.200</RateWithoutPromotion>
+              <NonRefundable>False</NonRefundable>
+              <CancellationPolicy>
+                <FromDate>08/04/2021</FromDate>
+                <Fee>469.200</Fee>
+              </CancellationPolicy>
+            </Boarding>
+          </Boardings>
+        </room>
+        <room id="988" count="1">
+          <Title>Triple Movenp(2Adl+enf -7ans)</Title>
+          <Adult> 2</Adult>
+          <Child minage="2" maxage="11.99" age="1"> 1</Child>
+          <AvailableQuantity>0</AvailableQuantity>
+          <Boardings>
+            <Boarding id="3">
+              <Title>Demi Pension</Title>
+              <Available code="201">Sur Demande</Available>
+              <Rate currency="1">421.200</Rate>
+              <RateWithoutPromotion currency="1">421.200</RateWithoutPromotion>
+              <NonRefundable>False</NonRefundable>
+              <CancellationPolicy>
+                <FromDate>08/04/2021</FromDate>
+                <Fee>421.200</Fee>
+              </CancellationPolicy>
+            </Boarding>
+          </Boardings>
+        </room>
+        <room id="989" count="1">
+          <Title>Triple Movenp(2Adl+enf )</Title>
+          <Adult> 2</Adult>
+          <Child minage="2" maxage="11.99" age="1"> 1</Child>
+          <AvailableQuantity>0</AvailableQuantity>
+          <Boardings>
+            <Boarding id="3">
+              <Title>Demi Pension</Title>
+              <Available code="201">Sur Demande</Available>
+              <Rate currency="1">526.500</Rate>
+              <RateWithoutPromotion currency="1">526.500</RateWithoutPromotion>
+              <NonRefundable>False</NonRefundable>
+              <CancellationPolicy>
+                <FromDate>08/04/2021</FromDate>
+                <Fee>526.500</Fee>
+              </CancellationPolicy>
+            </Boarding>
+          </Boardings>
+        </room>
+      </rooms>
+      <GlobalSupplement>6</GlobalSupplement>
+    </Hotel>
+    <Hotel id="1660">
+      <Title>Sousse Palace</Title>
+      <Priority>4</Priority>
+      <PromotionTitle>Luxe/Enf -6 ans gratuit Promo Ramadan</PromotionTitle>
+      <PromotionDateTime>30/12/2018 23:59:00</PromotionDateTime>
+      <Category id="5">5 étoiles</Category>
+      <ThumbImage url="https://fwk.resabo.com:447/cr.fwk/images/hotels/Hotel-5651-20201006-093349.jpg">
+      </ThumbImage>
+      <Review>
+        <Note>15</Note>
+        <Number>51</Number>
+      </Review>
+      <Localization>
+        <Longitude>10.640352</Longitude>
+        <Latitude>35.831448</Latitude>
+      </Localization>
+      <Address>
+      </Address>
+      <Summary>hotel Sousse Palace 
+Découvrez le luxe à la tunisienne au Sousse Palace, prestigieux hôtel cinq étoiles, fondé en 1966 et qui a été entièrement rénové</Summary>
+      <rooms>
+        <room id="1" count="1">
+          <Title>Chambre Double</Title>
+          <Adult> 2</Adult>
+          <Child minage="2" maxage="11.99" age="0"> 0</Child>
+          <AvailableQuantity>50</AvailableQuantity>
+          <Boardings>
+            <Boarding id="2">
+              <Title>Logement Petit Déjeuner</Title>
+              <Available code="200">Disponible</Available>
+              <Rate currency="1">193.970</Rate>
+              <RateWithoutPromotion currency="1">193.970</RateWithoutPromotion>
+              <NonRefundable>False</NonRefundable>
+              <CancellationPolicy>
+                <FromDate>05/04/2021</FromDate>
+                <Fee>193.970</Fee>
+              </CancellationPolicy>
+            </Boarding>
+          </Boardings>
+        </room>
+        <room id="2" count="1">
+          <Title>Chambre Single</Title>
+          <Adult> 1</Adult>
+          <Child minage="2" maxage="11.99" age="0"> 0</Child>
+          <AvailableQuantity>50</AvailableQuantity>
+          <Boardings>
+            <Boarding id="2">
+              <Title>Logement Petit Déjeuner</Title>
+              <Available code="200">Disponible</Available>
+              <Rate currency="1">125.510</Rate>
+              <RateWithoutPromotion currency="1">125.510</RateWithoutPromotion>
+              <NonRefundable>False</NonRefundable>
+              <CancellationPolicy>
+                <FromDate>05/04/2021</FromDate>
+                <Fee>125.510</Fee>
+              </CancellationPolicy>
+            </Boarding>
+          </Boardings>
+        </room>
+        <room id="3" count="1">
+          <Title>Chambre Triple</Title>
+          <Adult> 2</Adult>
+          <Child minage="2" maxage="11.99" age="1"> 1</Child>
+          <AvailableQuantity>0</AvailableQuantity>
+          <Boardings>
+            <Boarding id="2">
+              <Title>Logement Petit Déjeuner</Title>
+              <Available code="201">Sur Demande</Available>
+              <Rate currency="1">193.970</Rate>
+              <RateWithoutPromotion currency="1">193.970</RateWithoutPromotion>
+              <NonRefundable>False</NonRefundable>
+              <CancellationPolicy>
+                <FromDate>05/04/2021</FromDate>
+                <Fee>193.970</Fee>
+              </CancellationPolicy>
+            </Boarding>
+          </Boardings>
+        </room>
+      </rooms>
+      <GlobalSupplement>6</GlobalSupplement>
+    </Hotel>
+    <Hotel id="1684">
+      <Title>Sousse Pearl Marriott Resort &amp; Spa</Title>
+      <Priority>1</Priority>
+      <PromotionTitle>Luxe/Hôtel n'accepte pas les jeunes célibataires/Enf -8 ans gratuit</PromotionTitle>
+      <PromotionDateTime>01/11/2020 23:59:00</PromotionDateTime>
+      <Category id="5">5 étoiles</Category>
+      <ThumbImage url="https://fwk.resabo.com:447/cr.fwk/images/hotels/Hotel-6311-20210322-015710.jpg">
+      </ThumbImage>
+      <Review>
+        <Note>16</Note>
+        <Number>115</Number>
+      </Review>
+      <Localization>
+        <Longitude>
+        </Longitude>
+        <Latitude>
+        </Latitude>
+      </Localization>
+      <Address>
+      </Address>
+      <Summary>Sousse Pearl Marriott Resort &amp; Spa 
+
+Comme son nom l’indique cet établissement hôtelier est une vraie perle, un hôtel dont l’architecture témoigne bea</Summary>
+      <rooms>
+        <room id="1" count="1">
+          <Title>Chambre Double</Title>
+          <Adult> 2</Adult>
+          <Child minage="2" maxage="11.99" age="0"> 0</Child>
+          <AvailableQuantity>10</AvailableQuantity>
+          <Boardings>
+            <Boarding id="2">
+              <Title>Logement Petit Déjeuner</Title>
+              <Available code="203" status="dr" value="16/04/2021 00:00:00">Sur Demande</Available>
+              <Rate currency="1">380</Rate>
+              <RateWithoutPromotion currency="1">380</RateWithoutPromotion>
+              <NonRefundable>False</NonRefundable>
+              <CancellationPolicy>
+                <FromDate>08/04/2021</FromDate>
+                <Fee>380</Fee>
+              </CancellationPolicy>
+            </Boarding>
+          </Boardings>
+        </room>
+        <room id="2" count="1">
+          <Title>Chambre Single</Title>
+          <Adult> 1</Adult>
+          <Child minage="2" maxage="11.99" age="0"> 0</Child>
+          <AvailableQuantity>0</AvailableQuantity>
+          <Boardings>
+            <Boarding id="2">
+              <Title>Logement Petit Déjeuner</Title>
+              <Available code="203" status="dr" value="16/04/2021 00:00:00">Sur Demande</Available>
+              <Rate currency="1">250</Rate>
+              <RateWithoutPromotion currency="1">250</RateWithoutPromotion>
+              <NonRefundable>False</NonRefundable>
+              <CancellationPolicy>
+                <FromDate>08/04/2021</FromDate>
+                <Fee>250</Fee>
+              </CancellationPolicy>
+            </Boarding>
+          </Boardings>
+        </room>
+        <room id="954" count="1">
+          <Title>Executive Suite two bedroom sea view </Title>
+          <Adult> 1</Adult>
+          <Child minage="2" maxage="11.99" age="0"> 0</Child>
+          <AvailableQuantity>0</AvailableQuantity>
+          <Boardings>
+            <Boarding id="2">
+              <Title>Logement Petit Déjeuner</Title>
+              <Available code="203" status="dr" value="16/04/2021 00:00:00">Sur Demande</Available>
+              <Rate currency="1">1600</Rate>
+              <RateWithoutPromotion currency="1">1600</RateWithoutPromotion>
+              <NonRefundable>False</NonRefundable>
+              <CancellationPolicy>
+                <FromDate>08/04/2021</FromDate>
+                <Fee>1600</Fee>
+              </CancellationPolicy>
+            </Boarding>
+          </Boardings>
+        </room>
+        <room id="954" count="1">
+          <Title>Executive Suite two bedroom sea view </Title>
+          <Adult> 2</Adult>
+          <Child minage="2" maxage="11.99" age="0"> 0</Child>
+          <AvailableQuantity>0</AvailableQuantity>
+          <Boardings>
+            <Boarding id="2">
+              <Title>Logement Petit Déjeuner</Title>
+              <Available code="203" status="dr" value="16/04/2021 00:00:00">Sur Demande</Available>
+              <Rate currency="1">3080</Rate>
+              <RateWithoutPromotion currency="1">3080</RateWithoutPromotion>
+              <NonRefundable>False</NonRefundable>
+              <CancellationPolicy>
+                <FromDate>08/04/2021</FromDate>
+                <Fee>3080</Fee>
+              </CancellationPolicy>
+            </Boarding>
+          </Boardings>
+        </room>
+        <room id="953" count="1">
+          <Title>Executive suite sea front view</Title>
+          <Adult> 1</Adult>
+          <Child minage="2" maxage="11.99" age="0"> 0</Child>
+          <AvailableQuantity>0</AvailableQuantity>
+          <Boardings>
+            <Boarding id="2">
+              <Title>Logement Petit Déjeuner</Title>
+              <Available code="203" status="dr" value="16/04/2021 00:00:00">Sur Demande</Available>
+              <Rate currency="1">830</Rate>
+              <RateWithoutPromotion currency="1">830</RateWithoutPromotion>
+              <NonRefundable>False</NonRefundable>
+              <CancellationPolicy>
+                <FromDate>08/04/2021</FromDate>
+                <Fee>830</Fee>
+              </CancellationPolicy>
+            </Boarding>
+          </Boardings>
+        </room>
+        <room id="953" count="1">
+          <Title>Executive suite sea front view</Title>
+          <Adult> 2</Adult>
+          <Child minage="2" maxage="11.99" age="0"> 0</Child>
+          <AvailableQuantity>0</AvailableQuantity>
+          <Boardings>
+            <Boarding id="2">
+              <Title>Logement Petit Déjeuner</Title>
+              <Available code="203" status="dr" value="16/04/2021 00:00:00">Sur Demande</Available>
+              <Rate currency="1">1540</Rate>
+              <RateWithoutPromotion currency="1">1540</RateWithoutPromotion>
+              <NonRefundable>False</NonRefundable>
+              <CancellationPolicy>
+                <FromDate>08/04/2021</FromDate>
+                <Fee>1540</Fee>
+              </CancellationPolicy>
+            </Boarding>
+          </Boardings>
+        </room>
+        <room id="952" count="1">
+          <Title>Executive suite partial sea view</Title>
+          <Adult> 1</Adult>
+          <Child minage="2" maxage="11.99" age="0"> 0</Child>
+          <AvailableQuantity>0</AvailableQuantity>
+          <Boardings>
+            <Boarding id="2">
+              <Title>Logement Petit Déjeuner</Title>
+              <Available code="203" status="dr" value="16/04/2021 00:00:00">Sur Demande</Available>
+              <Rate currency="1">730</Rate>
+              <RateWithoutPromotion currency="1">730</RateWithoutPromotion>
+              <NonRefundable>False</NonRefundable>
+              <CancellationPolicy>
+                <FromDate>08/04/2021</FromDate>
+                <Fee>730</Fee>
+              </CancellationPolicy>
+            </Boarding>
+          </Boardings>
+        </room>
+        <room id="952" count="1">
+          <Title>Executive suite partial sea view</Title>
+          <Adult> 2</Adult>
+          <Child minage="2" maxage="11.99" age="0"> 0</Child>
+          <AvailableQuantity>0</AvailableQuantity>
+          <Boardings>
+            <Boarding id="2">
+              <Title>Logement Petit Déjeuner</Title>
+              <Available code="203" status="dr" value="16/04/2021 00:00:00">Sur Demande</Available>
+              <Rate currency="1">1340</Rate>
+              <RateWithoutPromotion currency="1">1340</RateWithoutPromotion>
+              <NonRefundable>False</NonRefundable>
+              <CancellationPolicy>
+                <FromDate>08/04/2021</FromDate>
+                <Fee>1340</Fee>
+              </CancellationPolicy>
+            </Boarding>
+          </Boardings>
+        </room>
+        <room id="951" count="1">
+          <Title>superior Partial sea view</Title>
+          <Adult> 2</Adult>
+          <Child minage="2" maxage="11.99" age="0"> 0</Child>
+          <AvailableQuantity>10</AvailableQuantity>
+          <Boardings>
+            <Boarding id="2">
+              <Title>Logement Petit Déjeuner</Title>
+              <Available code="203" status="dr" value="16/04/2021 00:00:00">Sur Demande</Available>
+              <Rate currency="1">400</Rate>
+              <RateWithoutPromotion currency="1">400</RateWithoutPromotion>
+              <NonRefundable>False</NonRefundable>
+              <CancellationPolicy>
+                <FromDate>08/04/2021</FromDate>
+                <Fee>400</Fee>
+              </CancellationPolicy>
+            </Boarding>
+          </Boardings>
+        </room>
+        <room id="955" count="1">
+          <Title>Superior Sea view </Title>
+          <Adult> 2</Adult>
+          <Child minage="2" maxage="11.99" age="0"> 0</Child>
+          <AvailableQuantity>3</AvailableQuantity>
+          <Boardings>
+            <Boarding id="2">
+              <Title>Logement Petit Déjeuner</Title>
+              <Available code="203" status="dr" value="16/04/2021 00:00:00">Sur Demande</Available>
+              <Rate currency="1">440</Rate>
+              <RateWithoutPromotion currency="1">440</RateWithoutPromotion>
+              <NonRefundable>False</NonRefundable>
+              <CancellationPolicy>
+                <FromDate>08/04/2021</FromDate>
+                <Fee>440</Fee>
+              </CancellationPolicy>
+            </Boarding>
+          </Boardings>
+        </room>
+        <room id="990" count="1">
+          <Title>standard city view (2adl+enf-8ans)</Title>
+          <Adult> 2</Adult>
+          <Child minage="2" maxage="11.99" age="1"> 1</Child>
+          <AvailableQuantity>0</AvailableQuantity>
+          <Boardings>
+            <Boarding id="2">
+              <Title>Logement Petit Déjeuner</Title>
+              <Available code="203" status="dr" value="16/04/2021 00:00:00">Sur Demande</Available>
+              <Rate currency="1">380</Rate>
+              <RateWithoutPromotion currency="1">380</RateWithoutPromotion>
+              <NonRefundable>False</NonRefundable>
+              <CancellationPolicy>
+                <FromDate>08/04/2021</FromDate>
+                <Fee>380</Fee>
+              </CancellationPolicy>
+            </Boarding>
+          </Boardings>
+        </room>
+        <room id="991" count="1">
+          <Title>standard city view (2adl+enf)</Title>
+          <Adult> 2</Adult>
+          <Child minage="2" maxage="11.99" age="1"> 1</Child>
+          <AvailableQuantity>0</AvailableQuantity>
+          <Boardings>
+            <Boarding id="2">
+              <Title>Logement Petit Déjeuner</Title>
+              <Available code="203" status="dr" value="16/04/2021 00:00:00">Sur Demande</Available>
+              <Rate currency="1">475</Rate>
+              <RateWithoutPromotion currency="1">475</RateWithoutPromotion>
+              <NonRefundable>False</NonRefundable>
+              <CancellationPolicy>
+                <FromDate>08/04/2021</FromDate>
+                <Fee>475</Fee>
+              </CancellationPolicy>
+            </Boarding>
+          </Boardings>
+        </room>
+      </rooms>
+      <GlobalSupplement>6</GlobalSupplement>
+    </Hotel>
+    <Hotel id="711">
+      <Source>8</Source>
+      <Title>El Mouradi Palm Marina</Title>
+      <Priority>9</Priority>
+      <PromotionTitle>Hotel Fermé : 20 % Early booking Eté 2021 jusq'au 30/04/2021 pour des séjours du  01/05/2021 au 31/10/2021 (Réduction incluse dans les prix).</PromotionTitle>
+      <PromotionDateTime>13/04/2018 00:00:00</PromotionDateTime>
+      <Address>El Mouradi Palm Marina 5*
+Zone Touristique El Kantaoui </Address>
+      <Summary>Construit dans un style arabo-andalou, à proximité de la Marina de Port El Kantaoui et directement sur une plage de sable fin, l'hôtel El Mouradi Palm
+
+</Summary>
+      <GlobalSupplement>0</GlobalSupplement>
+      <Category id="5">5 étoiles</Category>
+      <ThumbImage url="https://www.elmouradi.com/cr27.fwk/images/hotels/Hotel-221-20141126-032630.jpg">Accès à la plage</ThumbImage>
+      <Review>
+        <Note>14</Note>
+        <Number>141</Number>
+      </Review>
+      <Localization>
+        <Longitude>10.581014</Longitude>
+        <Latitude>35.910934</Latitude>
+      </Localization>
+      <rooms>
+        <room id="1" count="1">
+          <Title>Chambre Double</Title>
+          <Adult> 2</Adult>
+          <AvailableQuantity>0</AvailableQuantity>
+          <Child minage="2" maxage="12" age="0"> 0</Child>
+          <Boardings>
+            <Boarding id="2">
+              <Title>Logement Petit Déjeuner</Title>
+              <NonRefundable>False</NonRefundable>
+              <Available code="489" status="ss">Sur Demande</Available>
+              <Rate currency="1">173.250</Rate>
+              <RateWithoutPromotion currency="1">173.250</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2021</FromDate>
+                <Fee>173.250</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="3">
+              <Title>Demi Pension</Title>
+              <NonRefundable>False</NonRefundable>
+              <Available code="489" status="ss">Sur Demande</Available>
+              <Rate currency="1">181.913</Rate>
+              <RateWithoutPromotion currency="1">181.913</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2021</FromDate>
+                <Fee>181.913</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="12">
+              <Title>All Inclusive Soft Drink</Title>
+              <NonRefundable>False</NonRefundable>
+              <Available code="489" status="ss">Sur Demande</Available>
+              <Rate currency="1">251.213</Rate>
+              <RateWithoutPromotion currency="1">251.213</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2021</FromDate>
+                <Fee>251.213</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="5">
+              <Title>All Inclusive</Title>
+              <NonRefundable>False</NonRefundable>
+              <Available code="489" status="ss">Sur Demande</Available>
+              <Rate currency="1">251.213</Rate>
+              <RateWithoutPromotion currency="1">251.213</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2021</FromDate>
+                <Fee>251.213</Fee>
+              </CancellationPolicy>
+            </Boarding>
+          </Boardings>
+        </room>
+        <room id="2" count="1">
+          <Title>Chambre Single</Title>
+          <Adult> 1</Adult>
+          <AvailableQuantity>0</AvailableQuantity>
+          <Child minage="2" maxage="12" age="0"> 0</Child>
+          <Boardings>
+            <Boarding id="2">
+              <Title>Logement Petit Déjeuner</Title>
+              <NonRefundable>False</NonRefundable>
+              <Available code="489" status="ss">Sur Demande</Available>
+              <Rate currency="1">106.425</Rate>
+              <RateWithoutPromotion currency="1">106.425</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2021</FromDate>
+                <Fee>106.425</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="3">
+              <Title>Demi Pension</Title>
+              <NonRefundable>False</NonRefundable>
+              <Available code="489" status="ss">Sur Demande</Available>
+              <Rate currency="1">110.757</Rate>
+              <RateWithoutPromotion currency="1">110.757</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2021</FromDate>
+                <Fee>110.757</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="12">
+              <Title>All Inclusive Soft Drink</Title>
+              <NonRefundable>False</NonRefundable>
+              <Available code="489" status="ss">Sur Demande</Available>
+              <Rate currency="1">145.407</Rate>
+              <RateWithoutPromotion currency="1">145.407</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2021</FromDate>
+                <Fee>145.407</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="5">
+              <Title>All Inclusive</Title>
+              <NonRefundable>False</NonRefundable>
+              <Available code="489" status="ss">Sur Demande</Available>
+              <Rate currency="1">145.407</Rate>
+              <RateWithoutPromotion currency="1">145.407</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2021</FromDate>
+                <Fee>145.407</Fee>
+              </CancellationPolicy>
+            </Boarding>
+          </Boardings>
+        </room>
+        <room id="3" count="1">
+          <Title>Chambre Triple</Title>
+          <Adult> 2</Adult>
+          <AvailableQuantity>0</AvailableQuantity>
+          <Child minage="2" maxage="12" age="1"> 1</Child>
+          <Boardings>
+            <Boarding id="2">
+              <Title>Logement Petit Déjeuner</Title>
+              <NonRefundable>False</NonRefundable>
+              <Available code="489" status="ss">Sur Demande</Available>
+              <Rate currency="1">173.250</Rate>
+              <RateWithoutPromotion currency="1">173.250</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2021</FromDate>
+                <Fee>173.250</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="3">
+              <Title>Demi Pension</Title>
+              <NonRefundable>False</NonRefundable>
+              <Available code="489" status="ss">Sur Demande</Available>
+              <Rate currency="1">181.913</Rate>
+              <RateWithoutPromotion currency="1">181.913</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2021</FromDate>
+                <Fee>181.913</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="12">
+              <Title>All Inclusive Soft Drink</Title>
+              <NonRefundable>False</NonRefundable>
+              <Available code="489" status="ss">Sur Demande</Available>
+              <Rate currency="1">251.213</Rate>
+              <RateWithoutPromotion currency="1">251.213</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2021</FromDate>
+                <Fee>251.213</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="5">
+              <Title>All Inclusive</Title>
+              <NonRefundable>False</NonRefundable>
+              <Available code="489" status="ss">Sur Demande</Available>
+              <Rate currency="1">251.213</Rate>
+              <RateWithoutPromotion currency="1">251.213</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2021</FromDate>
+                <Fee>251.213</Fee>
+              </CancellationPolicy>
+            </Boarding>
+          </Boardings>
+        </room>
+        <room id="25" count="1">
+          <Title>Chambre Double Vue Mer</Title>
+          <Adult> 2</Adult>
+          <AvailableQuantity>0</AvailableQuantity>
+          <Child minage="2" maxage="12" age="0"> 0</Child>
+          <Boardings>
+            <Boarding id="2">
+              <Title>Logement Petit Déjeuner</Title>
+              <NonRefundable>False</NonRefundable>
+              <Available code="489" status="ss">Sur Demande</Available>
+              <Rate currency="1">190.575</Rate>
+              <RateWithoutPromotion currency="1">190.575</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2021</FromDate>
+                <Fee>190.575</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="3">
+              <Title>Demi Pension</Title>
+              <NonRefundable>False</NonRefundable>
+              <Available code="489" status="ss">Sur Demande</Available>
+              <Rate currency="1">199.238</Rate>
+              <RateWithoutPromotion currency="1">199.238</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2021</FromDate>
+                <Fee>199.238</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="12">
+              <Title>All Inclusive Soft Drink</Title>
+              <NonRefundable>False</NonRefundable>
+              <Available code="489" status="ss">Sur Demande</Available>
+              <Rate currency="1">268.538</Rate>
+              <RateWithoutPromotion currency="1">268.538</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2021</FromDate>
+                <Fee>268.538</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="5">
+              <Title>All Inclusive</Title>
+              <NonRefundable>False</NonRefundable>
+              <Available code="489" status="ss">Sur Demande</Available>
+              <Rate currency="1">268.538</Rate>
+              <RateWithoutPromotion currency="1">268.538</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2021</FromDate>
+                <Fee>268.538</Fee>
+              </CancellationPolicy>
+            </Boarding>
+          </Boardings>
+        </room>
+        <room id="26" count="1">
+          <Title>Chambre Single Vue Mer</Title>
+          <Adult> 1</Adult>
+          <AvailableQuantity>0</AvailableQuantity>
+          <Child minage="2" maxage="12" age="0"> 0</Child>
+          <Boardings>
+            <Boarding id="2">
+              <Title>Logement Petit Déjeuner</Title>
+              <NonRefundable>False</NonRefundable>
+              <Available code="489" status="ss">Sur Demande</Available>
+              <Rate currency="1">123.750</Rate>
+              <RateWithoutPromotion currency="1">123.750</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2021</FromDate>
+                <Fee>123.750</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="3">
+              <Title>Demi Pension</Title>
+              <NonRefundable>False</NonRefundable>
+              <Available code="489" status="ss">Sur Demande</Available>
+              <Rate currency="1">128.082</Rate>
+              <RateWithoutPromotion currency="1">128.082</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2021</FromDate>
+                <Fee>128.082</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="12">
+              <Title>All Inclusive Soft Drink</Title>
+              <NonRefundable>False</NonRefundable>
+              <Available code="489" status="ss">Sur Demande</Available>
+              <Rate currency="1">162.732</Rate>
+              <RateWithoutPromotion currency="1">162.732</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2021</FromDate>
+                <Fee>162.732</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="5">
+              <Title>All Inclusive</Title>
+              <NonRefundable>False</NonRefundable>
+              <Available code="489" status="ss">Sur Demande</Available>
+              <Rate currency="1">162.732</Rate>
+              <RateWithoutPromotion currency="1">162.732</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2021</FromDate>
+                <Fee>162.732</Fee>
+              </CancellationPolicy>
+            </Boarding>
+          </Boardings>
+        </room>
+        <room id="27" count="1">
+          <Title>Chambre Triple Vue Mer	</Title>
+          <Adult> 2</Adult>
+          <AvailableQuantity>0</AvailableQuantity>
+          <Child minage="2" maxage="12" age="1"> 1</Child>
+          <Boardings>
+            <Boarding id="2">
+              <Title>Logement Petit Déjeuner</Title>
+              <NonRefundable>False</NonRefundable>
+              <Available code="489" status="ss">Sur Demande</Available>
+              <Rate currency="1">190.575</Rate>
+              <RateWithoutPromotion currency="1">190.575</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2021</FromDate>
+                <Fee>190.575</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="3">
+              <Title>Demi Pension</Title>
+              <NonRefundable>False</NonRefundable>
+              <Available code="489" status="ss">Sur Demande</Available>
+              <Rate currency="1">199.238</Rate>
+              <RateWithoutPromotion currency="1">199.238</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2021</FromDate>
+                <Fee>199.238</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="12">
+              <Title>All Inclusive Soft Drink</Title>
+              <NonRefundable>False</NonRefundable>
+              <Available code="489" status="ss">Sur Demande</Available>
+              <Rate currency="1">268.538</Rate>
+              <RateWithoutPromotion currency="1">268.538</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2021</FromDate>
+                <Fee>268.538</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="5">
+              <Title>All Inclusive</Title>
+              <NonRefundable>False</NonRefundable>
+              <Available code="489" status="ss">Sur Demande</Available>
+              <Rate currency="1">268.538</Rate>
+              <RateWithoutPromotion currency="1">268.538</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2021</FromDate>
+                <Fee>268.538</Fee>
+              </CancellationPolicy>
+            </Boarding>
+          </Boardings>
+        </room>
+        <room id="39" count="1">
+          <Title>Chambre Triple Non remboursable</Title>
+          <Adult> 2</Adult>
+          <AvailableQuantity>0</AvailableQuantity>
+          <Child minage="2" maxage="12" age="1"> 1</Child>
+          <Boardings>
+            <Boarding id="2">
+              <Title>Logement Petit Déjeuner</Title>
+              <NonRefundable>True</NonRefundable>
+              <Available code="489" status="ss">Sur Demande</Available>
+              <Rate currency="1">155.925</Rate>
+              <RateWithoutPromotion currency="1">173.250</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2020</FromDate>
+                <Fee>155.925</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="3">
+              <Title>Demi Pension</Title>
+              <NonRefundable>True</NonRefundable>
+              <Available code="489" status="ss">Sur Demande</Available>
+              <Rate currency="1">163.719</Rate>
+              <RateWithoutPromotion currency="1">181.913</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2020</FromDate>
+                <Fee>163.719</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="12">
+              <Title>All Inclusive Soft Drink</Title>
+              <NonRefundable>True</NonRefundable>
+              <Available code="489" status="ss">Sur Demande</Available>
+              <Rate currency="1">226.094</Rate>
+              <RateWithoutPromotion currency="1">251.213</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2020</FromDate>
+                <Fee>226.094</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="5">
+              <Title>All Inclusive</Title>
+              <NonRefundable>True</NonRefundable>
+              <Available code="489" status="ss">Sur Demande</Available>
+              <Rate currency="1">226.094</Rate>
+              <RateWithoutPromotion currency="1">251.213</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2020</FromDate>
+                <Fee>226.094</Fee>
+              </CancellationPolicy>
+            </Boarding>
+          </Boardings>
+        </room>
+        <room id="38" count="1">
+          <Title>Chambre Single Non remboursable</Title>
+          <Adult> 1</Adult>
+          <AvailableQuantity>0</AvailableQuantity>
+          <Child minage="2" maxage="12" age="0"> 0</Child>
+          <Boardings>
+            <Boarding id="2">
+              <Title>Logement Petit Déjeuner</Title>
+              <NonRefundable>True</NonRefundable>
+              <Available code="489" status="ss">Sur Demande</Available>
+              <Rate currency="1">95.782</Rate>
+              <RateWithoutPromotion currency="1">106.425</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2020</FromDate>
+                <Fee>95.782</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="3">
+              <Title>Demi Pension</Title>
+              <NonRefundable>True</NonRefundable>
+              <Available code="489" status="ss">Sur Demande</Available>
+              <Rate currency="1">99.682</Rate>
+              <RateWithoutPromotion currency="1">110.757</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2020</FromDate>
+                <Fee>99.682</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="12">
+              <Title>All Inclusive Soft Drink</Title>
+              <NonRefundable>True</NonRefundable>
+              <Available code="489" status="ss">Sur Demande</Available>
+              <Rate currency="1">130.863</Rate>
+              <RateWithoutPromotion currency="1">145.407</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2020</FromDate>
+                <Fee>130.863</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="5">
+              <Title>All Inclusive</Title>
+              <NonRefundable>True</NonRefundable>
+              <Available code="489" status="ss">Sur Demande</Available>
+              <Rate currency="1">130.863</Rate>
+              <RateWithoutPromotion currency="1">145.407</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2020</FromDate>
+                <Fee>130.863</Fee>
+              </CancellationPolicy>
+            </Boarding>
+          </Boardings>
+        </room>
+        <room id="37" count="1">
+          <Title>Chambre Double Non remboursable</Title>
+          <Adult> 2</Adult>
+          <AvailableQuantity>0</AvailableQuantity>
+          <Child minage="2" maxage="12" age="0"> 0</Child>
+          <Boardings>
+            <Boarding id="2">
+              <Title>Logement Petit Déjeuner</Title>
+              <NonRefundable>True</NonRefundable>
+              <Available code="489" status="ss">Sur Demande</Available>
+              <Rate currency="1">155.925</Rate>
+              <RateWithoutPromotion currency="1">173.250</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2020</FromDate>
+                <Fee>155.925</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="3">
+              <Title>Demi Pension</Title>
+              <NonRefundable>True</NonRefundable>
+              <Available code="489" status="ss">Sur Demande</Available>
+              <Rate currency="1">163.719</Rate>
+              <RateWithoutPromotion currency="1">181.913</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2020</FromDate>
+                <Fee>163.719</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="12">
+              <Title>All Inclusive Soft Drink</Title>
+              <NonRefundable>True</NonRefundable>
+              <Available code="489" status="ss">Sur Demande</Available>
+              <Rate currency="1">226.094</Rate>
+              <RateWithoutPromotion currency="1">251.213</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2020</FromDate>
+                <Fee>226.094</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="5">
+              <Title>All Inclusive</Title>
+              <NonRefundable>True</NonRefundable>
+              <Available code="489" status="ss">Sur Demande</Available>
+              <Rate currency="1">226.094</Rate>
+              <RateWithoutPromotion currency="1">251.213</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2020</FromDate>
+                <Fee>226.094</Fee>
+              </CancellationPolicy>
+            </Boarding>
+          </Boardings>
+        </room>
+      </rooms>
+      <City>Sousse</City>
+      <Destination>Tunisie</Destination>
+    </Hotel>
+    <Hotel id="713">
+      <Source>8</Source>
+      <Title>El Mouradi Club Kantaoui</Title>
+      <Priority>8</Priority>
+      <PromotionTitle>Hotel Fermé : 20 % Early booking Eté 2021 jusq'au 30/04/2021 pour des séjours du  01/05/2021 au 31/10/2021 (Réduction incluse dans les prix).</PromotionTitle>
+      <PromotionDateTime>13/04/2018 00:00:00</PromotionDateTime>
+      <Address>El Mouradi Club Kantaoui 4*
+Zone touristique El Kantaoui </Address>
+      <Summary>Le long d’une belle plage de sable fin, au centre de la zone touristique de Port El Kantaoui, l’hôtel El Mouradi Club Kantaoui est situé à 2 km d’un p</Summary>
+      <GlobalSupplement>0</GlobalSupplement>
+      <Category id="4">4 étoiles</Category>
+      <ThumbImage url="https://www.elmouradi.com/cr27.fwk/images/hotels/Hotel-40-20141126-102204.jpg">vue aérienne</ThumbImage>
+      <Review>
+        <Note>13</Note>
+        <Number>279</Number>
+      </Review>
+      <Localization>
+        <Longitude>10.582452</Longitude>
+        <Latitude>35.907136</Latitude>
+      </Localization>
+      <rooms>
+        <room id="1" count="1">
+          <Title>Chambre Double</Title>
+          <Adult> 2</Adult>
+          <AvailableQuantity>0</AvailableQuantity>
+          <Child minage="2" maxage="12" age="0"> 0</Child>
+          <Boardings>
+            <Boarding id="2">
+              <Title>Logement Petit Déjeuner</Title>
+              <NonRefundable>False</NonRefundable>
+              <Available code="489" status="ss">Sur Demande</Available>
+              <Rate currency="1">134.888</Rate>
+              <RateWithoutPromotion currency="1">134.888</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2021</FromDate>
+                <Fee>134.888</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="3">
+              <Title>Demi Pension</Title>
+              <NonRefundable>False</NonRefundable>
+              <Available code="489" status="ss">Sur Demande</Available>
+              <Rate currency="1">143.550</Rate>
+              <RateWithoutPromotion currency="1">143.550</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2021</FromDate>
+                <Fee>143.550</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="12">
+              <Title>All Inclusive Soft Drink</Title>
+              <NonRefundable>False</NonRefundable>
+              <Available code="489" status="ss">Sur Demande</Available>
+              <Rate currency="1">160.875</Rate>
+              <RateWithoutPromotion currency="1">160.875</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2021</FromDate>
+                <Fee>160.875</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="5">
+              <Title>All Inclusive</Title>
+              <NonRefundable>False</NonRefundable>
+              <Available code="489" status="ss">Sur Demande</Available>
+              <Rate currency="1">160.875</Rate>
+              <RateWithoutPromotion currency="1">160.875</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2021</FromDate>
+                <Fee>160.875</Fee>
+              </CancellationPolicy>
+            </Boarding>
+          </Boardings>
+        </room>
+        <room id="2" count="1">
+          <Title>Chambre Single</Title>
+          <Adult> 1</Adult>
+          <AvailableQuantity>0</AvailableQuantity>
+          <Child minage="2" maxage="12" age="0"> 0</Child>
+          <Boardings>
+            <Boarding id="2">
+              <Title>Logement Petit Déjeuner</Title>
+              <NonRefundable>False</NonRefundable>
+              <Available code="489" status="ss">Sur Demande</Available>
+              <Rate currency="1">80.438</Rate>
+              <RateWithoutPromotion currency="1">80.438</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2021</FromDate>
+                <Fee>80.438</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="3">
+              <Title>Demi Pension</Title>
+              <NonRefundable>False</NonRefundable>
+              <Available code="489" status="ss">Sur Demande</Available>
+              <Rate currency="1">84.769</Rate>
+              <RateWithoutPromotion currency="1">84.769</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2021</FromDate>
+                <Fee>84.769</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="12">
+              <Title>All Inclusive Soft Drink</Title>
+              <NonRefundable>False</NonRefundable>
+              <Available code="489" status="ss">Sur Demande</Available>
+              <Rate currency="1">93.432</Rate>
+              <RateWithoutPromotion currency="1">93.432</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2021</FromDate>
+                <Fee>93.432</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="5">
+              <Title>All Inclusive</Title>
+              <NonRefundable>False</NonRefundable>
+              <Available code="489" status="ss">Sur Demande</Available>
+              <Rate currency="1">93.432</Rate>
+              <RateWithoutPromotion currency="1">93.432</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2021</FromDate>
+                <Fee>93.432</Fee>
+              </CancellationPolicy>
+            </Boarding>
+          </Boardings>
+        </room>
+        <room id="3" count="1">
+          <Title>Chambre Triple</Title>
+          <Adult> 2</Adult>
+          <AvailableQuantity>0</AvailableQuantity>
+          <Child minage="2" maxage="12" age="1"> 1</Child>
+          <Boardings>
+            <Boarding id="2">
+              <Title>Logement Petit Déjeuner</Title>
+              <NonRefundable>False</NonRefundable>
+              <Available code="489" status="ss">Sur Demande</Available>
+              <Rate currency="1">134.888</Rate>
+              <RateWithoutPromotion currency="1">134.888</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2021</FromDate>
+                <Fee>134.888</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="3">
+              <Title>Demi Pension</Title>
+              <NonRefundable>False</NonRefundable>
+              <Available code="489" status="ss">Sur Demande</Available>
+              <Rate currency="1">143.550</Rate>
+              <RateWithoutPromotion currency="1">143.550</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2021</FromDate>
+                <Fee>143.550</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="12">
+              <Title>All Inclusive Soft Drink</Title>
+              <NonRefundable>False</NonRefundable>
+              <Available code="489" status="ss">Sur Demande</Available>
+              <Rate currency="1">160.875</Rate>
+              <RateWithoutPromotion currency="1">160.875</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2021</FromDate>
+                <Fee>160.875</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="5">
+              <Title>All Inclusive</Title>
+              <NonRefundable>False</NonRefundable>
+              <Available code="489" status="ss">Sur Demande</Available>
+              <Rate currency="1">160.875</Rate>
+              <RateWithoutPromotion currency="1">160.875</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2021</FromDate>
+                <Fee>160.875</Fee>
+              </CancellationPolicy>
+            </Boarding>
+          </Boardings>
+        </room>
+        <room id="11" count="1">
+          <Title>Bungalow</Title>
+          <Adult> 1</Adult>
+          <AvailableQuantity>0</AvailableQuantity>
+          <Child minage="2" maxage="12" age="0"> 0</Child>
+          <Boardings>
+            <Boarding id="2">
+              <Title>Logement Petit Déjeuner</Title>
+              <NonRefundable>False</NonRefundable>
+              <Available code="489" status="ss">Sur Demande</Available>
+              <Rate currency="1">80.438</Rate>
+              <RateWithoutPromotion currency="1">80.438</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2021</FromDate>
+                <Fee>80.438</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="3">
+              <Title>Demi Pension</Title>
+              <NonRefundable>False</NonRefundable>
+              <Available code="489" status="ss">Sur Demande</Available>
+              <Rate currency="1">84.769</Rate>
+              <RateWithoutPromotion currency="1">84.769</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2021</FromDate>
+                <Fee>84.769</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="12">
+              <Title>All Inclusive Soft Drink</Title>
+              <NonRefundable>False</NonRefundable>
+              <Available code="489" status="ss">Sur Demande</Available>
+              <Rate currency="1">93.432</Rate>
+              <RateWithoutPromotion currency="1">93.432</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2021</FromDate>
+                <Fee>93.432</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="5">
+              <Title>All Inclusive</Title>
+              <NonRefundable>False</NonRefundable>
+              <Available code="489" status="ss">Sur Demande</Available>
+              <Rate currency="1">93.432</Rate>
+              <RateWithoutPromotion currency="1">93.432</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2021</FromDate>
+                <Fee>93.432</Fee>
+              </CancellationPolicy>
+            </Boarding>
+          </Boardings>
+        </room>
+        <room id="11" count="1">
+          <Title>Bungalow</Title>
+          <Adult> 2</Adult>
+          <AvailableQuantity>0</AvailableQuantity>
+          <Child minage="2" maxage="12" age="1"> 1</Child>
+          <Boardings>
+            <Boarding id="2">
+              <Title>Logement Petit Déjeuner</Title>
+              <NonRefundable>False</NonRefundable>
+              <Available code="489" status="ss">Sur Demande</Available>
+              <Rate currency="1">134.888</Rate>
+              <RateWithoutPromotion currency="1">134.888</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2021</FromDate>
+                <Fee>134.888</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="3">
+              <Title>Demi Pension</Title>
+              <NonRefundable>False</NonRefundable>
+              <Available code="489" status="ss">Sur Demande</Available>
+              <Rate currency="1">143.550</Rate>
+              <RateWithoutPromotion currency="1">143.550</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2021</FromDate>
+                <Fee>143.550</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="12">
+              <Title>All Inclusive Soft Drink</Title>
+              <NonRefundable>False</NonRefundable>
+              <Available code="489" status="ss">Sur Demande</Available>
+              <Rate currency="1">160.875</Rate>
+              <RateWithoutPromotion currency="1">160.875</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2021</FromDate>
+                <Fee>160.875</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="5">
+              <Title>All Inclusive</Title>
+              <NonRefundable>False</NonRefundable>
+              <Available code="489" status="ss">Sur Demande</Available>
+              <Rate currency="1">160.875</Rate>
+              <RateWithoutPromotion currency="1">160.875</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2021</FromDate>
+                <Fee>160.875</Fee>
+              </CancellationPolicy>
+            </Boarding>
+          </Boardings>
+        </room>
+        <room id="11" count="1">
+          <Title>Bungalow</Title>
+          <Adult> 2</Adult>
+          <AvailableQuantity>0</AvailableQuantity>
+          <Child minage="2" maxage="12" age="0"> 0</Child>
+          <Boardings>
+            <Boarding id="2">
+              <Title>Logement Petit Déjeuner</Title>
+              <NonRefundable>False</NonRefundable>
+              <Available code="489" status="ss">Sur Demande</Available>
+              <Rate currency="1">134.888</Rate>
+              <RateWithoutPromotion currency="1">134.888</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2021</FromDate>
+                <Fee>134.888</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="3">
+              <Title>Demi Pension</Title>
+              <NonRefundable>False</NonRefundable>
+              <Available code="489" status="ss">Sur Demande</Available>
+              <Rate currency="1">143.550</Rate>
+              <RateWithoutPromotion currency="1">143.550</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2021</FromDate>
+                <Fee>143.550</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="12">
+              <Title>All Inclusive Soft Drink</Title>
+              <NonRefundable>False</NonRefundable>
+              <Available code="489" status="ss">Sur Demande</Available>
+              <Rate currency="1">160.875</Rate>
+              <RateWithoutPromotion currency="1">160.875</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2021</FromDate>
+                <Fee>160.875</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="5">
+              <Title>All Inclusive</Title>
+              <NonRefundable>False</NonRefundable>
+              <Available code="489" status="ss">Sur Demande</Available>
+              <Rate currency="1">160.875</Rate>
+              <RateWithoutPromotion currency="1">160.875</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2021</FromDate>
+                <Fee>160.875</Fee>
+              </CancellationPolicy>
+            </Boarding>
+          </Boardings>
+        </room>
+        <room id="39" count="1">
+          <Title>Chambre Triple Non remboursable</Title>
+          <Adult> 2</Adult>
+          <AvailableQuantity>0</AvailableQuantity>
+          <Child minage="2" maxage="12" age="1"> 1</Child>
+          <Boardings>
+            <Boarding id="2">
+              <Title>Logement Petit Déjeuner</Title>
+              <NonRefundable>True</NonRefundable>
+              <Available code="489" status="ss">Sur Demande</Available>
+              <Rate currency="1">128.144</Rate>
+              <RateWithoutPromotion currency="1">134.888</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2020</FromDate>
+                <Fee>128.144</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="3">
+              <Title>Demi Pension</Title>
+              <NonRefundable>True</NonRefundable>
+              <Available code="489" status="ss">Sur Demande</Available>
+              <Rate currency="1">136.375</Rate>
+              <RateWithoutPromotion currency="1">143.550</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2020</FromDate>
+                <Fee>136.375</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="12">
+              <Title>All Inclusive Soft Drink</Title>
+              <NonRefundable>True</NonRefundable>
+              <Available code="489" status="ss">Sur Demande</Available>
+              <Rate currency="1">152.832</Rate>
+              <RateWithoutPromotion currency="1">160.875</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2020</FromDate>
+                <Fee>152.832</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="5">
+              <Title>All Inclusive</Title>
+              <NonRefundable>True</NonRefundable>
+              <Available code="489" status="ss">Sur Demande</Available>
+              <Rate currency="1">152.832</Rate>
+              <RateWithoutPromotion currency="1">160.875</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2020</FromDate>
+                <Fee>152.832</Fee>
+              </CancellationPolicy>
+            </Boarding>
+          </Boardings>
+        </room>
+        <room id="38" count="1">
+          <Title>Chambre Single Non remboursable</Title>
+          <Adult> 1</Adult>
+          <AvailableQuantity>0</AvailableQuantity>
+          <Child minage="2" maxage="12" age="0"> 0</Child>
+          <Boardings>
+            <Boarding id="2">
+              <Title>Logement Petit Déjeuner</Title>
+              <NonRefundable>True</NonRefundable>
+              <Available code="489" status="ss">Sur Demande</Available>
+              <Rate currency="1">76.413</Rate>
+              <RateWithoutPromotion currency="1">80.438</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2020</FromDate>
+                <Fee>76.413</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="3">
+              <Title>Demi Pension</Title>
+              <NonRefundable>True</NonRefundable>
+              <Available code="489" status="ss">Sur Demande</Available>
+              <Rate currency="1">80.532</Rate>
+              <RateWithoutPromotion currency="1">84.769</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2020</FromDate>
+                <Fee>80.532</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="12">
+              <Title>All Inclusive Soft Drink</Title>
+              <NonRefundable>True</NonRefundable>
+              <Available code="489" status="ss">Sur Demande</Available>
+              <Rate currency="1">88.763</Rate>
+              <RateWithoutPromotion currency="1">93.432</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2020</FromDate>
+                <Fee>88.763</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="5">
+              <Title>All Inclusive</Title>
+              <NonRefundable>True</NonRefundable>
+              <Available code="489" status="ss">Sur Demande</Available>
+              <Rate currency="1">88.763</Rate>
+              <RateWithoutPromotion currency="1">93.432</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2020</FromDate>
+                <Fee>88.763</Fee>
+              </CancellationPolicy>
+            </Boarding>
+          </Boardings>
+        </room>
+        <room id="37" count="1">
+          <Title>Chambre Double Non remboursable</Title>
+          <Adult> 2</Adult>
+          <AvailableQuantity>0</AvailableQuantity>
+          <Child minage="2" maxage="12" age="0"> 0</Child>
+          <Boardings>
+            <Boarding id="2">
+              <Title>Logement Petit Déjeuner</Title>
+              <NonRefundable>True</NonRefundable>
+              <Available code="489" status="ss">Sur Demande</Available>
+              <Rate currency="1">128.144</Rate>
+              <RateWithoutPromotion currency="1">134.888</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2020</FromDate>
+                <Fee>128.144</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="3">
+              <Title>Demi Pension</Title>
+              <NonRefundable>True</NonRefundable>
+              <Available code="489" status="ss">Sur Demande</Available>
+              <Rate currency="1">136.375</Rate>
+              <RateWithoutPromotion currency="1">143.550</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2020</FromDate>
+                <Fee>136.375</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="12">
+              <Title>All Inclusive Soft Drink</Title>
+              <NonRefundable>True</NonRefundable>
+              <Available code="489" status="ss">Sur Demande</Available>
+              <Rate currency="1">152.832</Rate>
+              <RateWithoutPromotion currency="1">160.875</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2020</FromDate>
+                <Fee>152.832</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="5">
+              <Title>All Inclusive</Title>
+              <NonRefundable>True</NonRefundable>
+              <Available code="489" status="ss">Sur Demande</Available>
+              <Rate currency="1">152.832</Rate>
+              <RateWithoutPromotion currency="1">160.875</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2020</FromDate>
+                <Fee>152.832</Fee>
+              </CancellationPolicy>
+            </Boarding>
+          </Boardings>
+        </room>
+      </rooms>
+      <City>Sousse</City>
+      <Destination>Tunisie</Destination>
+    </Hotel>
+    <Hotel id="750">
+      <Source>8</Source>
+      <Title>El Mouradi Palace</Title>
+      <Priority>2</Priority>
+      <PromotionTitle>Hotel en promotion:15% offre Avril 2021 pour des séjours du 08/04/2021 au 30/04/2021 //  20% Early Booking Eté 2021 jusqu'au 30/04/2021 (Réduction incluse dans les prix).</PromotionTitle>
+      <PromotionDateTime>13/04/2018 00:00:00</PromotionDateTime>
+      <Address>El Mouradi Palace 5*
+Zone Touristique El Kantaoui
+</Address>
+      <Summary>En bordure d’une superbe plage, au cœur de la station de Port El Kantaoui et face à son parcours de golf de 36 trous, l'hôtel El Mouradi Palace est l’</Summary>
+      <GlobalSupplement>0</GlobalSupplement>
+      <Category id="5">5 étoiles</Category>
+      <ThumbImage url="https://www.elmouradi.com/cr27.fwk/images/hotels/Hotel-579-20141125-031517.JPG">Entrée</ThumbImage>
+      <Review>
+        <Note>14</Note>
+        <Number>339</Number>
+      </Review>
+      <Localization>
+        <Longitude>10.583557</Longitude>
+        <Latitude>35.903391</Latitude>
+      </Localization>
+      <rooms>
+        <room id="1" count="1">
+          <Title>Chambre Double</Title>
+          <Adult> 2</Adult>
+          <AvailableQuantity>200</AvailableQuantity>
+          <Child minage="2" maxage="12" age="0"> 0</Child>
+          <Boardings>
+            <Boarding id="2">
+              <Title>Logement Petit Déjeuner</Title>
+              <NonRefundable>False</NonRefundable>
+              <Available code="0">Disponible</Available>
+              <Rate currency="1">136.219</Rate>
+              <RateWithoutPromotion currency="1">160.257</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2021</FromDate>
+                <Fee>136.219</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="3">
+              <Title>Demi Pension</Title>
+              <NonRefundable>False</NonRefundable>
+              <Available code="0">Disponible</Available>
+              <Rate currency="1">143.582</Rate>
+              <RateWithoutPromotion currency="1">168.919</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2021</FromDate>
+                <Fee>143.582</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="12">
+              <Title>All Inclusive Soft Drink</Title>
+              <NonRefundable>False</NonRefundable>
+              <Available code="0">Disponible</Available>
+              <Rate currency="1">195.125</Rate>
+              <RateWithoutPromotion currency="1">229.557</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2021</FromDate>
+                <Fee>195.125</Fee>
+              </CancellationPolicy>
+            </Boarding>
+          </Boardings>
+        </room>
+        <room id="2" count="1">
+          <Title>Chambre Single</Title>
+          <Adult> 1</Adult>
+          <AvailableQuantity>200</AvailableQuantity>
+          <Child minage="2" maxage="12" age="0"> 0</Child>
+          <Boardings>
+            <Boarding id="2">
+              <Title>Logement Petit Déjeuner</Title>
+              <NonRefundable>False</NonRefundable>
+              <Available code="0">Disponible</Available>
+              <Rate currency="1">84.675</Rate>
+              <RateWithoutPromotion currency="1">99.619</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2021</FromDate>
+                <Fee>84.675</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="3">
+              <Title>Demi Pension</Title>
+              <NonRefundable>False</NonRefundable>
+              <Available code="0">Disponible</Available>
+              <Rate currency="1">88.357</Rate>
+              <RateWithoutPromotion currency="1">103.950</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2021</FromDate>
+                <Fee>88.357</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="12">
+              <Title>All Inclusive Soft Drink</Title>
+              <NonRefundable>False</NonRefundable>
+              <Available code="0">Disponible</Available>
+              <Rate currency="1">114.132</Rate>
+              <RateWithoutPromotion currency="1">134.269</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2021</FromDate>
+                <Fee>114.132</Fee>
+              </CancellationPolicy>
+            </Boarding>
+          </Boardings>
+        </room>
+        <room id="3" count="1">
+          <Title>Chambre Triple</Title>
+          <Adult> 2</Adult>
+          <AvailableQuantity>200</AvailableQuantity>
+          <Child minage="2" maxage="12" age="1"> 1</Child>
+          <Boardings>
+            <Boarding id="2">
+              <Title>Logement Petit Déjeuner</Title>
+              <NonRefundable>False</NonRefundable>
+              <Available code="0">Disponible</Available>
+              <Rate currency="1">136.219</Rate>
+              <RateWithoutPromotion currency="1">160.257</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2021</FromDate>
+                <Fee>136.219</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="3">
+              <Title>Demi Pension</Title>
+              <NonRefundable>False</NonRefundable>
+              <Available code="0">Disponible</Available>
+              <Rate currency="1">143.582</Rate>
+              <RateWithoutPromotion currency="1">168.919</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2021</FromDate>
+                <Fee>143.582</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="12">
+              <Title>All Inclusive Soft Drink</Title>
+              <NonRefundable>False</NonRefundable>
+              <Available code="0">Disponible</Available>
+              <Rate currency="1">195.125</Rate>
+              <RateWithoutPromotion currency="1">229.557</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2021</FromDate>
+                <Fee>195.125</Fee>
+              </CancellationPolicy>
+            </Boarding>
+          </Boardings>
+        </room>
+        <room id="25" count="1">
+          <Title>Chambre Double Vue Mer</Title>
+          <Adult> 2</Adult>
+          <AvailableQuantity>200</AvailableQuantity>
+          <Child minage="2" maxage="12" age="0"> 0</Child>
+          <Boardings>
+            <Boarding id="2">
+              <Title>Logement Petit Déjeuner</Title>
+              <NonRefundable>False</NonRefundable>
+              <Available code="0">Disponible</Available>
+              <Rate currency="1">150.944</Rate>
+              <RateWithoutPromotion currency="1">177.582</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2021</FromDate>
+                <Fee>150.944</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="3">
+              <Title>Demi Pension</Title>
+              <NonRefundable>False</NonRefundable>
+              <Available code="0">Disponible</Available>
+              <Rate currency="1">158.307</Rate>
+              <RateWithoutPromotion currency="1">186.244</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2021</FromDate>
+                <Fee>158.307</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="12">
+              <Title>All Inclusive Soft Drink</Title>
+              <NonRefundable>False</NonRefundable>
+              <Available code="0">Disponible</Available>
+              <Rate currency="1">209.850</Rate>
+              <RateWithoutPromotion currency="1">246.882</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2021</FromDate>
+                <Fee>209.850</Fee>
+              </CancellationPolicy>
+            </Boarding>
+          </Boardings>
+        </room>
+        <room id="26" count="1">
+          <Title>Chambre Single Vue Mer</Title>
+          <Adult> 1</Adult>
+          <AvailableQuantity>200</AvailableQuantity>
+          <Child minage="2" maxage="12" age="0"> 0</Child>
+          <Boardings>
+            <Boarding id="2">
+              <Title>Logement Petit Déjeuner</Title>
+              <NonRefundable>False</NonRefundable>
+              <Available code="0">Disponible</Available>
+              <Rate currency="1">99.400</Rate>
+              <RateWithoutPromotion currency="1">116.944</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2021</FromDate>
+                <Fee>99.400</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="3">
+              <Title>Demi Pension</Title>
+              <NonRefundable>False</NonRefundable>
+              <Available code="0">Disponible</Available>
+              <Rate currency="1">103.082</Rate>
+              <RateWithoutPromotion currency="1">121.275</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2021</FromDate>
+                <Fee>103.082</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="12">
+              <Title>All Inclusive Soft Drink</Title>
+              <NonRefundable>False</NonRefundable>
+              <Available code="0">Disponible</Available>
+              <Rate currency="1">128.857</Rate>
+              <RateWithoutPromotion currency="1">151.594</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2021</FromDate>
+                <Fee>128.857</Fee>
+              </CancellationPolicy>
+            </Boarding>
+          </Boardings>
+        </room>
+        <room id="27" count="1">
+          <Title>Chambre Triple Vue Mer	</Title>
+          <Adult> 2</Adult>
+          <AvailableQuantity>200</AvailableQuantity>
+          <Child minage="2" maxage="12" age="1"> 1</Child>
+          <Boardings>
+            <Boarding id="2">
+              <Title>Logement Petit Déjeuner</Title>
+              <NonRefundable>False</NonRefundable>
+              <Available code="0">Disponible</Available>
+              <Rate currency="1">150.944</Rate>
+              <RateWithoutPromotion currency="1">177.582</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2021</FromDate>
+                <Fee>150.944</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="3">
+              <Title>Demi Pension</Title>
+              <NonRefundable>False</NonRefundable>
+              <Available code="0">Disponible</Available>
+              <Rate currency="1">158.307</Rate>
+              <RateWithoutPromotion currency="1">186.244</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2021</FromDate>
+                <Fee>158.307</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="12">
+              <Title>All Inclusive Soft Drink</Title>
+              <NonRefundable>False</NonRefundable>
+              <Available code="0">Disponible</Available>
+              <Rate currency="1">209.850</Rate>
+              <RateWithoutPromotion currency="1">246.882</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2021</FromDate>
+                <Fee>209.850</Fee>
+              </CancellationPolicy>
+            </Boarding>
+          </Boardings>
+        </room>
+        <room id="37" count="1">
+          <Title>Chambre Double Non remboursable</Title>
+          <Adult> 2</Adult>
+          <AvailableQuantity>200</AvailableQuantity>
+          <Child minage="2" maxage="12" age="0"> 0</Child>
+          <Boardings>
+            <Boarding id="2">
+              <Title>Logement Petit Déjeuner</Title>
+              <NonRefundable>True</NonRefundable>
+              <Available code="0">Disponible</Available>
+              <Rate currency="1">122.594</Rate>
+              <RateWithoutPromotion currency="1">160.257</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2020</FromDate>
+                <Fee>122.594</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="3">
+              <Title>Demi Pension</Title>
+              <NonRefundable>True</NonRefundable>
+              <Available code="0">Disponible</Available>
+              <Rate currency="1">129.225</Rate>
+              <RateWithoutPromotion currency="1">168.919</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2020</FromDate>
+                <Fee>129.225</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="12">
+              <Title>All Inclusive Soft Drink</Title>
+              <NonRefundable>True</NonRefundable>
+              <Available code="0">Disponible</Available>
+              <Rate currency="1">175.613</Rate>
+              <RateWithoutPromotion currency="1">229.557</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2020</FromDate>
+                <Fee>175.613</Fee>
+              </CancellationPolicy>
+            </Boarding>
+          </Boardings>
+        </room>
+        <room id="39" count="1">
+          <Title>Chambre Triple Non remboursable</Title>
+          <Adult> 2</Adult>
+          <AvailableQuantity>200</AvailableQuantity>
+          <Child minage="2" maxage="12" age="1"> 1</Child>
+          <Boardings>
+            <Boarding id="2">
+              <Title>Logement Petit Déjeuner</Title>
+              <NonRefundable>True</NonRefundable>
+              <Available code="0">Disponible</Available>
+              <Rate currency="1">122.594</Rate>
+              <RateWithoutPromotion currency="1">160.257</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2020</FromDate>
+                <Fee>122.594</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="3">
+              <Title>Demi Pension</Title>
+              <NonRefundable>True</NonRefundable>
+              <Available code="0">Disponible</Available>
+              <Rate currency="1">129.225</Rate>
+              <RateWithoutPromotion currency="1">168.919</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2020</FromDate>
+                <Fee>129.225</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="12">
+              <Title>All Inclusive Soft Drink</Title>
+              <NonRefundable>True</NonRefundable>
+              <Available code="0">Disponible</Available>
+              <Rate currency="1">175.613</Rate>
+              <RateWithoutPromotion currency="1">229.557</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2020</FromDate>
+                <Fee>175.613</Fee>
+              </CancellationPolicy>
+            </Boarding>
+          </Boardings>
+        </room>
+        <room id="38" count="1">
+          <Title>Chambre Single Non remboursable</Title>
+          <Adult> 1</Adult>
+          <AvailableQuantity>200</AvailableQuantity>
+          <Child minage="2" maxage="12" age="0"> 0</Child>
+          <Boardings>
+            <Boarding id="2">
+              <Title>Logement Petit Déjeuner</Title>
+              <NonRefundable>True</NonRefundable>
+              <Available code="0">Disponible</Available>
+              <Rate currency="1">76.207</Rate>
+              <RateWithoutPromotion currency="1">99.619</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2020</FromDate>
+                <Fee>76.207</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="3">
+              <Title>Demi Pension</Title>
+              <NonRefundable>True</NonRefundable>
+              <Available code="0">Disponible</Available>
+              <Rate currency="1">79.519</Rate>
+              <RateWithoutPromotion currency="1">103.950</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2020</FromDate>
+                <Fee>79.519</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="12">
+              <Title>All Inclusive Soft Drink</Title>
+              <NonRefundable>True</NonRefundable>
+              <Available code="0">Disponible</Available>
+              <Rate currency="1">102.713</Rate>
+              <RateWithoutPromotion currency="1">134.269</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2020</FromDate>
+                <Fee>102.713</Fee>
+              </CancellationPolicy>
+            </Boarding>
+          </Boardings>
+        </room>
+        <room id="45" count="1">
+          <Title>Triple Junior Suite</Title>
+          <Adult> 2</Adult>
+          <AvailableQuantity>2</AvailableQuantity>
+          <Child minage="2" maxage="12" age="1"> 1</Child>
+          <Boardings>
+            <Boarding id="2">
+              <Title>Logement Petit Déjeuner</Title>
+              <NonRefundable>False</NonRefundable>
+              <Available code="0">Disponible</Available>
+              <Rate currency="1">202.488</Rate>
+              <RateWithoutPromotion currency="1">238.219</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2021</FromDate>
+                <Fee>202.488</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="3">
+              <Title>Demi Pension</Title>
+              <NonRefundable>False</NonRefundable>
+              <Available code="0">Disponible</Available>
+              <Rate currency="1">209.850</Rate>
+              <RateWithoutPromotion currency="1">246.882</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2021</FromDate>
+                <Fee>209.850</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="12">
+              <Title>All Inclusive Soft Drink</Title>
+              <NonRefundable>False</NonRefundable>
+              <Available code="0">Disponible</Available>
+              <Rate currency="1">261.394</Rate>
+              <RateWithoutPromotion currency="1">307.519</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2021</FromDate>
+                <Fee>261.394</Fee>
+              </CancellationPolicy>
+            </Boarding>
+          </Boardings>
+        </room>
+        <room id="43" count="1">
+          <Title>Single Junior Suite</Title>
+          <Adult> 1</Adult>
+          <AvailableQuantity>2</AvailableQuantity>
+          <Child minage="2" maxage="12" age="0"> 0</Child>
+          <Boardings>
+            <Boarding id="2">
+              <Title>Logement Petit Déjeuner</Title>
+              <NonRefundable>False</NonRefundable>
+              <Available code="0">Disponible</Available>
+              <Rate currency="1">150.944</Rate>
+              <RateWithoutPromotion currency="1">177.582</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2021</FromDate>
+                <Fee>150.944</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="3">
+              <Title>Demi Pension</Title>
+              <NonRefundable>False</NonRefundable>
+              <Available code="0">Disponible</Available>
+              <Rate currency="1">154.625</Rate>
+              <RateWithoutPromotion currency="1">181.913</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2021</FromDate>
+                <Fee>154.625</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="12">
+              <Title>All Inclusive Soft Drink</Title>
+              <NonRefundable>False</NonRefundable>
+              <Available code="0">Disponible</Available>
+              <Rate currency="1">180.394</Rate>
+              <RateWithoutPromotion currency="1">212.232</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2021</FromDate>
+                <Fee>180.394</Fee>
+              </CancellationPolicy>
+            </Boarding>
+          </Boardings>
+        </room>
+        <room id="24" count="1">
+          <Title>Double Suite Junior</Title>
+          <Adult> 1</Adult>
+          <AvailableQuantity>2</AvailableQuantity>
+          <Child minage="2" maxage="12" age="0"> 0</Child>
+          <Boardings>
+            <Boarding id="2">
+              <Title>Logement Petit Déjeuner</Title>
+              <NonRefundable>False</NonRefundable>
+              <Available code="0">Disponible</Available>
+              <Rate currency="1">150.944</Rate>
+              <RateWithoutPromotion currency="1">177.582</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2021</FromDate>
+                <Fee>150.944</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="3">
+              <Title>Demi Pension</Title>
+              <NonRefundable>False</NonRefundable>
+              <Available code="0">Disponible</Available>
+              <Rate currency="1">154.625</Rate>
+              <RateWithoutPromotion currency="1">181.913</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2021</FromDate>
+                <Fee>154.625</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="12">
+              <Title>All Inclusive Soft Drink</Title>
+              <NonRefundable>False</NonRefundable>
+              <Available code="0">Disponible</Available>
+              <Rate currency="1">180.394</Rate>
+              <RateWithoutPromotion currency="1">212.232</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2021</FromDate>
+                <Fee>180.394</Fee>
+              </CancellationPolicy>
+            </Boarding>
+          </Boardings>
+        </room>
+        <room id="24" count="1">
+          <Title>Double Suite Junior</Title>
+          <Adult> 2</Adult>
+          <AvailableQuantity>2</AvailableQuantity>
+          <Child minage="2" maxage="12" age="0"> 0</Child>
+          <Boardings>
+            <Boarding id="2">
+              <Title>Logement Petit Déjeuner</Title>
+              <NonRefundable>False</NonRefundable>
+              <Available code="0">Disponible</Available>
+              <Rate currency="1">202.488</Rate>
+              <RateWithoutPromotion currency="1">238.219</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2021</FromDate>
+                <Fee>202.488</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="3">
+              <Title>Demi Pension</Title>
+              <NonRefundable>False</NonRefundable>
+              <Available code="0">Disponible</Available>
+              <Rate currency="1">209.850</Rate>
+              <RateWithoutPromotion currency="1">246.882</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2021</FromDate>
+                <Fee>209.850</Fee>
+              </CancellationPolicy>
+            </Boarding>
+            <Boarding id="12">
+              <Title>All Inclusive Soft Drink</Title>
+              <NonRefundable>False</NonRefundable>
+              <Available code="0">Disponible</Available>
+              <Rate currency="1">261.394</Rate>
+              <RateWithoutPromotion currency="1">307.519</RateWithoutPromotion>
+              <CancellationPolicy>
+                <FromDate>15/04/2021</FromDate>
+                <Fee>261.394</Fee>
+              </CancellationPolicy>
+            </Boarding>
+          </Boardings>
+        </room>
+      </rooms>
+      <City>Sousse</City>
+      <Destination>Tunisie</Destination>
+    </Hotel>
+  </Hotels>
+  <Started>
+    <GMT>13/04/2021 11:40:00</GMT>
+    <SERVER>13/04/2021 12:40:00</SERVER>
+  </Started>
+  <ResponseTime>
+    <Milliseconds>4134.0072</Milliseconds>
+  </ResponseTime>
+</HotelSearchRES>
